@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<odoo><data noupdate="1">
+<record   model="op.hizb" id="op_hizb_1_a92a0d79">
+ <field name="name">الحزب1</field>
+<field name="num" >1</field>
+</record>
+<record   model="op.hizb" id="op_hizb_2_7c0ea630">
+ <field name="name">الحزب2</field>
+<field name="num" >2</field>
+</record>
+<record   model="op.hizb" id="op_hizb_3_fc62c93d">
+ <field name="name">الحزب3</field>
+<field name="num" >3</field>
+</record>
+<record   model="op.hizb" id="op_hizb_4_515662f6">
+ <field name="name">الحزب4</field>
+<field name="num" >4</field>
+</record>
+<record   model="op.hizb" id="op_hizb_5_dcd854f7">
+ <field name="name">الحزب5</field>
+<field name="num" >5</field>
+</record>
+<record   model="op.hizb" id="op_hizb_6_4b4720de">
+ <field name="name">الحزب6</field>
+<field name="num" >6</field>
+</record>
+<record   model="op.hizb" id="op_hizb_7_d5e8f9e8">
+ <field name="name">الحزب7</field>
+<field name="num" >7</field>
+</record>
+<record   model="op.hizb" id="op_hizb_8_4a24aaf5">
+ <field name="name">الحزب8</field>
+<field name="num" >8</field>
+</record>
+<record   model="op.hizb" id="op_hizb_9_cc53acb7">
+ <field name="name">الحزب9</field>
+<field name="num" >9</field>
+</record>
+<record   model="op.hizb" id="op_hizb_10_ce524b52">
+ <field name="name">الحزب10</field>
+<field name="num" >10</field>
+</record>
+<record   model="op.hizb" id="op_hizb_11_4e71896f">
+ <field name="name">الحزب11</field>
+<field name="num" >11</field>
+</record>
+<record   model="op.hizb" id="op_hizb_12_3164380a">
+ <field name="name">الحزب12</field>
+<field name="num" >12</field>
+</record>
+<record   model="op.hizb" id="op_hizb_13_a4a7a20c">
+ <field name="name">الحزب13</field>
+<field name="num" >13</field>
+</record>
+<record   model="op.hizb" id="op_hizb_14_74d98e72">
+ <field name="name">الحزب14</field>
+<field name="num" >14</field>
+</record>
+<record   model="op.hizb" id="op_hizb_15_a59ba2d8">
+ <field name="name">الحزب15</field>
+<field name="num" >15</field>
+</record>
+<record   model="op.hizb" id="op_hizb_16_2b504519">
+ <field name="name">الحزب16</field>
+<field name="num" >16</field>
+</record>
+<record   model="op.hizb" id="op_hizb_17_e415c07e">
+ <field name="name">الحزب17</field>
+<field name="num" >17</field>
+</record>
+<record   model="op.hizb" id="op_hizb_18_026fcfb6">
+ <field name="name">الحزب18</field>
+<field name="num" >18</field>
+</record>
+<record   model="op.hizb" id="op_hizb_19_05a7e24a">
+ <field name="name">الحزب19</field>
+<field name="num" >19</field>
+</record>
+<record   model="op.hizb" id="op_hizb_20_21d7b81c">
+ <field name="name">الحزب20</field>
+<field name="num" >20</field>
+</record>
+<record   model="op.hizb" id="op_hizb_21_b5c8f8ba">
+ <field name="name">الحزب21</field>
+<field name="num" >21</field>
+</record>
+<record   model="op.hizb" id="op_hizb_22_86598933">
+ <field name="name">الحزب22</field>
+<field name="num" >22</field>
+</record>
+<record   model="op.hizb" id="op_hizb_23_c6841856">
+ <field name="name">الحزب23</field>
+<field name="num" >23</field>
+</record>
+<record   model="op.hizb" id="op_hizb_24_089f2d2d">
+ <field name="name">الحزب24</field>
+<field name="num" >24</field>
+</record>
+<record   model="op.hizb" id="op_hizb_25_a687d293">
+ <field name="name">الحزب25</field>
+<field name="num" >25</field>
+</record>
+<record   model="op.hizb" id="op_hizb_26_0057d4f3">
+ <field name="name">الحزب26</field>
+<field name="num" >26</field>
+</record>
+<record   model="op.hizb" id="op_hizb_27_7f014f44">
+ <field name="name">الحزب27</field>
+<field name="num" >27</field>
+</record>
+<record   model="op.hizb" id="op_hizb_28_a4064dc8">
+ <field name="name">الحزب28</field>
+<field name="num" >28</field>
+</record>
+<record   model="op.hizb" id="op_hizb_29_d8f97c89">
+ <field name="name">الحزب29</field>
+<field name="num" >29</field>
+</record>
+<record   model="op.hizb" id="op_hizb_30_33365339">
+ <field name="name">الحزب30</field>
+<field name="num" >30</field>
+</record>
+<record   model="op.hizb" id="op_hizb_31_c3a22c91">
+ <field name="name">الحزب31</field>
+<field name="num" >31</field>
+</record>
+<record   model="op.hizb" id="op_hizb_32_f428349f">
+ <field name="name">الحزب32</field>
+<field name="num" >32</field>
+</record>
+<record   model="op.hizb" id="op_hizb_33_76ab44fd">
+ <field name="name">الحزب33</field>
+<field name="num" >33</field>
+</record>
+<record   model="op.hizb" id="op_hizb_34_884e5893">
+ <field name="name">الحزب34</field>
+<field name="num" >34</field>
+</record>
+<record   model="op.hizb" id="op_hizb_35_d6e2cb71">
+ <field name="name">الحزب35</field>
+<field name="num" >35</field>
+</record>
+<record   model="op.hizb" id="op_hizb_36_43093c54">
+ <field name="name">الحزب36</field>
+<field name="num" >36</field>
+</record>
+<record   model="op.hizb" id="op_hizb_37_bb047b7a">
+ <field name="name">الحزب37</field>
+<field name="num" >37</field>
+</record>
+<record   model="op.hizb" id="op_hizb_38_3f076b90">
+ <field name="name">الحزب38</field>
+<field name="num" >38</field>
+</record>
+<record   model="op.hizb" id="op_hizb_39_0c4eaec0">
+ <field name="name">الحزب39</field>
+<field name="num" >39</field>
+</record>
+<record   model="op.hizb" id="op_hizb_40_67af567f">
+ <field name="name">الحزب40</field>
+<field name="num" >40</field>
+</record>
+<record   model="op.hizb" id="op_hizb_41_577eba7d">
+ <field name="name">الحزب41</field>
+<field name="num" >41</field>
+</record>
+<record   model="op.hizb" id="op_hizb_42_0ff19eae">
+ <field name="name">الحزب42</field>
+<field name="num" >42</field>
+</record>
+<record   model="op.hizb" id="op_hizb_43_15c5ccbe">
+ <field name="name">الحزب43</field>
+<field name="num" >43</field>
+</record>
+<record   model="op.hizb" id="op_hizb_44_4aca06d4">
+ <field name="name">الحزب44</field>
+<field name="num" >44</field>
+</record>
+<record   model="op.hizb" id="op_hizb_45_3779d280">
+ <field name="name">الحزب45</field>
+<field name="num" >45</field>
+</record>
+<record   model="op.hizb" id="op_hizb_46_d981ebe2">
+ <field name="name">الحزب46</field>
+<field name="num" >46</field>
+</record>
+<record   model="op.hizb" id="op_hizb_47_d846b33a">
+ <field name="name">الحزب47</field>
+<field name="num" >47</field>
+</record>
+<record   model="op.hizb" id="op_hizb_48_710524bc">
+ <field name="name">الحزب48</field>
+<field name="num" >48</field>
+</record>
+<record   model="op.hizb" id="op_hizb_49_9afc8349">
+ <field name="name">الحزب49</field>
+<field name="num" >49</field>
+</record>
+<record   model="op.hizb" id="op_hizb_50_654db143">
+ <field name="name">الحزب50</field>
+<field name="num" >50</field>
+</record>
+<record   model="op.hizb" id="op_hizb_51_9a779d6a">
+ <field name="name">الحزب51</field>
+<field name="num" >51</field>
+</record>
+<record   model="op.hizb" id="op_hizb_52_3e091964">
+ <field name="name">الحزب52</field>
+<field name="num" >52</field>
+</record>
+<record   model="op.hizb" id="op_hizb_53_f2168745">
+ <field name="name">الحزب53</field>
+<field name="num" >53</field>
+</record>
+<record   model="op.hizb" id="op_hizb_54_cfc1dc09">
+ <field name="name">الحزب54</field>
+<field name="num" >54</field>
+</record>
+<record   model="op.hizb" id="op_hizb_55_21d5f7dc">
+ <field name="name">الحزب55</field>
+<field name="num" >55</field>
+</record>
+<record   model="op.hizb" id="op_hizb_56_73b5cf01">
+ <field name="name">الحزب56</field>
+<field name="num" >56</field>
+</record>
+<record   model="op.hizb" id="op_hizb_57_10d06104">
+ <field name="name">الحزب57</field>
+<field name="num" >57</field>
+</record>
+<record   model="op.hizb" id="op_hizb_58_ba23bc94">
+ <field name="name">الحزب58</field>
+<field name="num" >58</field>
+</record>
+<record   model="op.hizb" id="op_hizb_59_956680a0">
+ <field name="name">الحزب59</field>
+<field name="num" >59</field>
+</record>
+<record   model="op.hizb" id="op_hizb_60_426193bb">
+ <field name="name">الحزب60</field>
+<field name="num" >60</field>
+</record>
+</data></odoo>

@@ -1,0 +1,4325 @@
+<?xml version="1.0"?>
+<odoo>
+<data>
+<record   model="op.thomen" id="op_thomen_1_56543789">
+<field name="soura_id" ref="pedagogie.soura_1" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_1_1" />
+<field name="to_aya_id" ref="pedagogie.aya_2_16" />
+ <field name="name">الثمن 1</field>
+<field name="num" >1</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_2_48aa9e58">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_17" />
+<field name="to_aya_id" ref="pedagogie.aya_2_25" />
+ <field name="name">الثمن 2</field>
+<field name="num" >2</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_3_a0c213ad">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_26" />
+<field name="to_aya_id" ref="pedagogie.aya_2_33" />
+ <field name="name">الثمن 3</field>
+<field name="num" >3</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_4_b7fe2846">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_34" />
+<field name="to_aya_id" ref="pedagogie.aya_2_41" />
+ <field name="name">الثمن 4</field>
+<field name="num" >4</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_5_31176c3b">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_42" />
+<field name="to_aya_id" ref="pedagogie.aya_2_53" />
+ <field name="name">الثمن 5</field>
+<field name="num" >5</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_6_131c389c">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_54" />
+<field name="to_aya_id" ref="pedagogie.aya_2_59" />
+ <field name="name">الثمن 6</field>
+<field name="num" >6</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_7_b2a501a8">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_60" />
+<field name="to_aya_id" ref="pedagogie.aya_2_66" />
+ <field name="name">الثمن 7</field>
+<field name="num" >7</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_8_df9b1015">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_1_a92a0d79" />
+<field name="from_aya_id" ref="pedagogie.aya_2_67" />
+<field name="to_aya_id" ref="pedagogie.aya_2_75" />
+ <field name="name">الثمن 8</field>
+<field name="num" >8</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_9_7194ff0b">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_76" />
+<field name="to_aya_id" ref="pedagogie.aya_2_851" />
+ <field name="name">الثمن 1</field>
+<field name="num" >9</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_10_2880532b">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_852" />
+<field name="to_aya_id" ref="pedagogie.aya_2_91" />
+ <field name="name">الثمن 2</field>
+<field name="num" >10</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_11_7b249282">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_92" />
+<field name="to_aya_id" ref="pedagogie.aya_2_100" />
+ <field name="name">الثمن 3</field>
+<field name="num" >11</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_12_61642987">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_101" />
+<field name="to_aya_id" ref="pedagogie.aya_2_105" />
+ <field name="name">الثمن 4</field>
+<field name="num" >12</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_13_11a715ff">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_106" />
+<field name="to_aya_id" ref="pedagogie.aya_2_113" />
+ <field name="name">الثمن 5</field>
+<field name="num" >13</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_14_d8aec50a">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_114" />
+<field name="to_aya_id" ref="pedagogie.aya_2_123" />
+ <field name="name">الثمن 6</field>
+<field name="num" >14</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_15_2e6e5d91">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_124" />
+<field name="to_aya_id" ref="pedagogie.aya_2_132" />
+ <field name="name">الثمن 7</field>
+<field name="num" >15</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_16_7ea2c75f">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_2_7c0ea630" />
+<field name="from_aya_id" ref="pedagogie.aya_2_133" />
+<field name="to_aya_id" ref="pedagogie.aya_2_141" />
+ <field name="name">الثمن 8</field>
+<field name="num" >16</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_17_7e980347">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_142" />
+<field name="to_aya_id" ref="pedagogie.aya_2_147" />
+ <field name="name">الثمن 1</field>
+<field name="num" >17</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_18_46b8d462">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_148" />
+<field name="to_aya_id" ref="pedagogie.aya_2_157" />
+ <field name="name">الثمن 2</field>
+<field name="num" >18</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_19_482ae4b2">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_158" />
+<field name="to_aya_id" ref="pedagogie.aya_2_165" />
+ <field name="name">الثمن 3</field>
+<field name="num" >19</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_20_7adb6bb3">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_166" />
+<field name="to_aya_id" ref="pedagogie.aya_2_176" />
+ <field name="name">الثمن 4</field>
+<field name="num" >20</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_21_079e3da1">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_177" />
+<field name="to_aya_id" ref="pedagogie.aya_2_184" />
+ <field name="name">الثمن 5</field>
+<field name="num" >21</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_22_08a3b913">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_185" />
+<field name="to_aya_id" ref="pedagogie.aya_2_188" />
+ <field name="name">الثمن 6</field>
+<field name="num" >22</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_23_db60bc8d">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_189" />
+<field name="to_aya_id" ref="pedagogie.aya_2_1961" />
+ <field name="name">الثمن 7</field>
+<field name="num" >23</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_24_bbc77333">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_3_fc62c93d" />
+<field name="from_aya_id" ref="pedagogie.aya_2_1962" />
+<field name="to_aya_id" ref="pedagogie.aya_2_202" />
+ <field name="name">الثمن 8</field>
+<field name="num" >24</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_25_04bf6654">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_203" />
+<field name="to_aya_id" ref="pedagogie.aya_2_212" />
+ <field name="name">الثمن 1</field>
+<field name="num" >25</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_26_2c763e89">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_213" />
+<field name="to_aya_id" ref="pedagogie.aya_2_218" />
+ <field name="name">الثمن 2</field>
+<field name="num" >26</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_27_f4b82bce">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_219" />
+<field name="to_aya_id" ref="pedagogie.aya_2_226" />
+ <field name="name">الثمن 3</field>
+<field name="num" >27</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_28_a4055dbf">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_227" />
+<field name="to_aya_id" ref="pedagogie.aya_2_2351" />
+ <field name="name">الثمن 4</field>
+<field name="num" >28</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_29_cf333430">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_2352" />
+<field name="to_aya_id" ref="pedagogie.aya_2_236" />
+ <field name="name">الثمن 5</field>
+<field name="num" >29</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_30_5b585069">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_237" />
+<field name="to_aya_id" ref="pedagogie.aya_2_242" />
+ <field name="name">الثمن 6</field>
+<field name="num" >30</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_31_2a03026c">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_243" />
+<field name="to_aya_id" ref="pedagogie.aya_2_247" />
+ <field name="name">الثمن 7</field>
+<field name="num" >31</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_32_7860d526">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_4_515662f6" />
+<field name="from_aya_id" ref="pedagogie.aya_2_248" />
+<field name="to_aya_id" ref="pedagogie.aya_2_252" />
+ <field name="name">الثمن 8</field>
+<field name="num" >32</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_33_f5447bce">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_253" />
+<field name="to_aya_id" ref="pedagogie.aya_2_257" />
+ <field name="name">الثمن 1</field>
+<field name="num" >33</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_34_0f6287a4">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_258" />
+<field name="to_aya_id" ref="pedagogie.aya_2_262" />
+ <field name="name">الثمن 2</field>
+<field name="num" >34</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_35_24ea513b">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_263" />
+<field name="to_aya_id" ref="pedagogie.aya_2_266" />
+ <field name="name">الثمن 3</field>
+<field name="num" >35</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_36_f269cb0e">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_267" />
+<field name="to_aya_id" ref="pedagogie.aya_2_271" />
+ <field name="name">الثمن 4</field>
+<field name="num" >36</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_37_08244cc1">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_272" />
+<field name="to_aya_id" ref="pedagogie.aya_2_279" />
+ <field name="name">الثمن 5</field>
+<field name="num" >37</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_38_a1cdf488">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_280" />
+<field name="to_aya_id" ref="pedagogie.aya_2_282" />
+ <field name="name">الثمن 6</field>
+<field name="num" >38</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_39_ebfccd89">
+<field name="soura_id" ref="pedagogie.soura_2" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_2_283" />
+<field name="to_aya_id" ref="pedagogie.aya_3_4" />
+ <field name="name">الثمن 7</field>
+<field name="num" >39</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_40_bc71e11c">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_5_dcd854f7" />
+<field name="from_aya_id" ref="pedagogie.aya_3_5" />
+<field name="to_aya_id" ref="pedagogie.aya_3_14" />
+ <field name="name">الثمن 8</field>
+<field name="num" >40</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_41_d3a90c9d">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_15" />
+<field name="to_aya_id" ref="pedagogie.aya_3_22" />
+ <field name="name">الثمن 1</field>
+<field name="num" >41</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_42_72d33194">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_23" />
+<field name="to_aya_id" ref="pedagogie.aya_3_32" />
+ <field name="name">الثمن 2</field>
+<field name="num" >42</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_43_97f78f21">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_33" />
+<field name="to_aya_id" ref="pedagogie.aya_3_41" />
+ <field name="name">الثمن 3</field>
+<field name="num" >43</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_44_706ebd69">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_42" />
+<field name="to_aya_id" ref="pedagogie.aya_3_51" />
+ <field name="name">الثمن 4</field>
+<field name="num" >44</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_45_41bd7d74">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_52" />
+<field name="to_aya_id" ref="pedagogie.aya_3_63" />
+ <field name="name">الثمن 5</field>
+<field name="num" >45</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_46_dafdefbb">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_64" />
+<field name="to_aya_id" ref="pedagogie.aya_3_74" />
+ <field name="name">الثمن 6</field>
+<field name="num" >46</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_47_a0afa925">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_75" />
+<field name="to_aya_id" ref="pedagogie.aya_3_811" />
+ <field name="name">الثمن 7</field>
+<field name="num" >47</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_48_7871f2a6">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_6_4b4720de" />
+<field name="from_aya_id" ref="pedagogie.aya_3_812" />
+<field name="to_aya_id" ref="pedagogie.aya_3_91" />
+ <field name="name">الثمن 8</field>
+<field name="num" >48</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_49_3f0d0ae0">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_92" />
+<field name="to_aya_id" ref="pedagogie.aya_3_102" />
+ <field name="name">الثمن 1</field>
+<field name="num" >49</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_50_d79d256a">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_103" />
+<field name="to_aya_id" ref="pedagogie.aya_3_112" />
+ <field name="name">الثمن 2</field>
+<field name="num" >50</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_51_10407deb">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_113" />
+<field name="to_aya_id" ref="pedagogie.aya_3_120" />
+ <field name="name">الثمن 3</field>
+<field name="num" >51</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_52_fd2b009e">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_121" />
+<field name="to_aya_id" ref="pedagogie.aya_3_132" />
+ <field name="name">الثمن 4</field>
+<field name="num" >52</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_53_fd28f31d">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_133" />
+<field name="to_aya_id" ref="pedagogie.aya_3_143" />
+ <field name="name">الثمن 5</field>
+<field name="num" >53</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_54_09d768f5">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_144" />
+<field name="to_aya_id" ref="pedagogie.aya_3_152" />
+ <field name="name">الثمن 6</field>
+<field name="num" >54</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_55_ba6c4299">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_153" />
+<field name="to_aya_id" ref="pedagogie.aya_3_159" />
+ <field name="name">الثمن 7</field>
+<field name="num" >55</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_56_20eccee7">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_7_d5e8f9e8" />
+<field name="from_aya_id" ref="pedagogie.aya_3_160" />
+<field name="to_aya_id" ref="pedagogie.aya_3_170" />
+ <field name="name">الثمن 8</field>
+<field name="num" >56</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_57_a776ac4c">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_3_171" />
+<field name="to_aya_id" ref="pedagogie.aya_3_180" />
+ <field name="name">الثمن 1</field>
+<field name="num" >57</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_58_80407aa1">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_3_181" />
+<field name="to_aya_id" ref="pedagogie.aya_3_185" />
+ <field name="name">الثمن 2</field>
+<field name="num" >58</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_59_95d32533">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_3_186" />
+<field name="to_aya_id" ref="pedagogie.aya_3_195" />
+ <field name="name">الثمن 3</field>
+<field name="num" >59</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_60_b795a7b4">
+<field name="soura_id" ref="pedagogie.soura_3" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_3_196" />
+<field name="to_aya_id" ref="pedagogie.aya_4_5" />
+ <field name="name">الثمن 4</field>
+<field name="num" >60</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_61_2cc8c755">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_4_6" />
+<field name="to_aya_id" ref="pedagogie.aya_4_10" />
+ <field name="name">الثمن 5</field>
+<field name="num" >61</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_62_3c25eb15">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_4_11" />
+<field name="to_aya_id" ref="pedagogie.aya_4_12" />
+ <field name="name">الثمن 6</field>
+<field name="num" >62</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_63_10c137b0">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_4_13" />
+<field name="to_aya_id" ref="pedagogie.aya_4_191" />
+ <field name="name">الثمن 7</field>
+<field name="num" >63</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_64_bb8960ef">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_8_4a24aaf5" />
+<field name="from_aya_id" ref="pedagogie.aya_4_192" />
+<field name="to_aya_id" ref="pedagogie.aya_4_23" />
+ <field name="name">الثمن 8</field>
+<field name="num" >64</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_65_3b9d258c">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_24" />
+<field name="to_aya_id" ref="pedagogie.aya_4_28" />
+ <field name="name">الثمن 1</field>
+<field name="num" >65</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_66_42904929">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_29" />
+<field name="to_aya_id" ref="pedagogie.aya_4_35" />
+ <field name="name">الثمن 2</field>
+<field name="num" >66</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_67_566f760a">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_36" />
+<field name="to_aya_id" ref="pedagogie.aya_4_45" />
+ <field name="name">الثمن 3</field>
+<field name="num" >67</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_68_bbee9d37">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_46" />
+<field name="to_aya_id" ref="pedagogie.aya_4_57" />
+ <field name="name">الثمن 4</field>
+<field name="num" >68</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_69_608e830e">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_58" />
+<field name="to_aya_id" ref="pedagogie.aya_4_64" />
+ <field name="name">الثمن 5</field>
+<field name="num" >69</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_70_5acd8985">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_65" />
+<field name="to_aya_id" ref="pedagogie.aya_4_73" />
+ <field name="name">الثمن 6</field>
+<field name="num" >70</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_71_89dea161">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_74" />
+<field name="to_aya_id" ref="pedagogie.aya_4_78" />
+ <field name="name">الثمن 7</field>
+<field name="num" >71</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_72_11e5adca">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_9_cc53acb7" />
+<field name="from_aya_id" ref="pedagogie.aya_4_79" />
+<field name="to_aya_id" ref="pedagogie.aya_4_86" />
+ <field name="name">الثمن 8</field>
+<field name="num" >72</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_73_5ae3b095">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_87" />
+<field name="to_aya_id" ref="pedagogie.aya_4_921" />
+ <field name="name">الثمن 1</field>
+<field name="num" >73</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_74_17b160e3">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_922" />
+<field name="to_aya_id" ref="pedagogie.aya_4_99" />
+ <field name="name">الثمن 2</field>
+<field name="num" >74</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_75_312d18a3">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_100" />
+<field name="to_aya_id" ref="pedagogie.aya_4_104" />
+ <field name="name">الثمن 3</field>
+<field name="num" >75</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_76_044d21a4">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_105" />
+<field name="to_aya_id" ref="pedagogie.aya_4_113" />
+ <field name="name">الثمن 4</field>
+<field name="num" >76</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_77_ea15f321">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_114" />
+<field name="to_aya_id" ref="pedagogie.aya_4_123" />
+ <field name="name">الثمن 5</field>
+<field name="num" >77</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_78_36a231bf">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_124" />
+<field name="to_aya_id" ref="pedagogie.aya_4_129" />
+ <field name="name">الثمن 6</field>
+<field name="num" >78</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_79_3d3e27f1">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_130" />
+<field name="to_aya_id" ref="pedagogie.aya_4_137" />
+ <field name="name">الثمن 7</field>
+<field name="num" >79</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_80_5a9c16b8">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_10_ce524b52" />
+<field name="from_aya_id" ref="pedagogie.aya_4_138" />
+<field name="to_aya_id" ref="pedagogie.aya_4_147" />
+ <field name="name">الثمن 8</field>
+<field name="num" >80</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_81_4d092196">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_4_148" />
+<field name="to_aya_id" ref="pedagogie.aya_4_158" />
+ <field name="name">الثمن 1</field>
+<field name="num" >81</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_82_28240db1">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_4_159" />
+<field name="to_aya_id" ref="pedagogie.aya_4_165" />
+ <field name="name">الثمن 2</field>
+<field name="num" >82</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_83_c9ebc79c">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_4_166" />
+<field name="to_aya_id" ref="pedagogie.aya_4_173" />
+ <field name="name">الثمن 3</field>
+<field name="num" >83</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_84_6ab381d3">
+<field name="soura_id" ref="pedagogie.soura_4" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_4_174" />
+<field name="to_aya_id" ref="pedagogie.aya_5_2" />
+ <field name="name">الثمن 4</field>
+<field name="num" >84</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_85_11dee64e">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_5_3" />
+<field name="to_aya_id" ref="pedagogie.aya_5_5" />
+ <field name="name">الثمن 5</field>
+<field name="num" >85</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_86_1bddfec8">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_5_6" />
+<field name="to_aya_id" ref="pedagogie.aya_5_11" />
+ <field name="name">الثمن 6</field>
+<field name="num" >86</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_87_10903f8f">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_5_12" />
+<field name="to_aya_id" ref="pedagogie.aya_5_16" />
+ <field name="name">الثمن 7</field>
+<field name="num" >87</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_88_c1f2e34c">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_11_4e71896f" />
+<field name="from_aya_id" ref="pedagogie.aya_5_17" />
+<field name="to_aya_id" ref="pedagogie.aya_5_22" />
+ <field name="name">الثمن 8</field>
+<field name="num" >88</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_89_e3831dd7">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_23" />
+<field name="to_aya_id" ref="pedagogie.aya_5_321" />
+ <field name="name">الثمن 1</field>
+<field name="num" >89</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_90_05852c81">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_322" />
+<field name="to_aya_id" ref="pedagogie.aya_5_40" />
+ <field name="name">الثمن 2</field>
+<field name="num" >90</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_91_fa45c947">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_41" />
+<field name="to_aya_id" ref="pedagogie.aya_5_44" />
+ <field name="name">الثمن 3</field>
+<field name="num" >91</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_92_436add06">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_45" />
+<field name="to_aya_id" ref="pedagogie.aya_5_48" />
+ <field name="name">الثمن 4</field>
+<field name="num" >92</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_93_9f052030">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_49" />
+<field name="to_aya_id" ref="pedagogie.aya_5_57" />
+ <field name="name">الثمن 5</field>
+<field name="num" >93</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_94_0a648b11">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_58" />
+<field name="to_aya_id" ref="pedagogie.aya_5_66" />
+ <field name="name">الثمن 6</field>
+<field name="num" >94</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_95_dbc48324">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_67" />
+<field name="to_aya_id" ref="pedagogie.aya_5_72" />
+ <field name="name">الثمن 7</field>
+<field name="num" >95</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_96_266893a6">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_12_3164380a" />
+<field name="from_aya_id" ref="pedagogie.aya_5_73" />
+<field name="to_aya_id" ref="pedagogie.aya_5_81" />
+ <field name="name">الثمن 8</field>
+<field name="num" >96</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_97_3b69864e">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_5_82" />
+<field name="to_aya_id" ref="pedagogie.aya_5_89" />
+ <field name="name">الثمن 1</field>
+<field name="num" >97</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_98_50eba6c0">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_5_90" />
+<field name="to_aya_id" ref="pedagogie.aya_5_96" />
+ <field name="name">الثمن 2</field>
+<field name="num" >98</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_99_ff1c2de5">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_5_97" />
+<field name="to_aya_id" ref="pedagogie.aya_5_105" />
+ <field name="name">الثمن 3</field>
+<field name="num" >99</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_100_04c71427">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_5_106" />
+<field name="to_aya_id" ref="pedagogie.aya_5_110" />
+ <field name="name">الثمن 4</field>
+<field name="num" >100</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_101_87d7cb56">
+<field name="soura_id" ref="pedagogie.soura_5" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_5_111" />
+<field name="to_aya_id" ref="pedagogie.aya_5_120" />
+ <field name="name">الثمن 5</field>
+<field name="num" >101</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_102_b91ecf60">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_6_0" />
+<field name="to_aya_id" ref="pedagogie.aya_6_12" />
+ <field name="name">الثمن 6</field>
+<field name="num" >102</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_103_5590a365">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_6_13" />
+<field name="to_aya_id" ref="pedagogie.aya_6_25" />
+ <field name="name">الثمن 7</field>
+<field name="num" >103</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_104_77647905">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_13_a4a7a20c" />
+<field name="from_aya_id" ref="pedagogie.aya_6_26" />
+<field name="to_aya_id" ref="pedagogie.aya_6_35" />
+ <field name="name">الثمن 8</field>
+<field name="num" >104</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_105_c58ee70b">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_36" />
+<field name="to_aya_id" ref="pedagogie.aya_6_47" />
+ <field name="name">الثمن 1</field>
+<field name="num" >105</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_106_20e55dd4">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_48" />
+<field name="to_aya_id" ref="pedagogie.aya_6_58" />
+ <field name="name">الثمن 2</field>
+<field name="num" >106</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_107_0bac0a49">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_59" />
+<field name="to_aya_id" ref="pedagogie.aya_6_69" />
+ <field name="name">الثمن 3</field>
+<field name="num" >107</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_108_fffd3eb5">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_70" />
+<field name="to_aya_id" ref="pedagogie.aya_6_79" />
+ <field name="name">الثمن 4</field>
+<field name="num" >108</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_109_1641350f">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_80" />
+<field name="to_aya_id" ref="pedagogie.aya_6_90" />
+ <field name="name">الثمن 5</field>
+<field name="num" >109</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_110_f3adcca9">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_91" />
+<field name="to_aya_id" ref="pedagogie.aya_6_94" />
+ <field name="name">الثمن 6</field>
+<field name="num" >110</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_111_d5bcb6e1">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_95" />
+<field name="to_aya_id" ref="pedagogie.aya_6_102" />
+ <field name="name">الثمن 7</field>
+<field name="num" >111</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_112_63b8ab07">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_14_74d98e72" />
+<field name="from_aya_id" ref="pedagogie.aya_6_103" />
+<field name="to_aya_id" ref="pedagogie.aya_6_110" />
+ <field name="name">الثمن 8</field>
+<field name="num" >112</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_113_9fa3c22d">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_111" />
+<field name="to_aya_id" ref="pedagogie.aya_6_119" />
+ <field name="name">الثمن 1</field>
+<field name="num" >113</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_114_25030e6b">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_120" />
+<field name="to_aya_id" ref="pedagogie.aya_6_126" />
+ <field name="name">الثمن 2</field>
+<field name="num" >114</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_115_5ba82836">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_127" />
+<field name="to_aya_id" ref="pedagogie.aya_6_134" />
+ <field name="name">الثمن 3</field>
+<field name="num" >115</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_116_6f0c5f18">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_135" />
+<field name="to_aya_id" ref="pedagogie.aya_6_139" />
+ <field name="name">الثمن 4</field>
+<field name="num" >116</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_117_6af106f9">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_140" />
+<field name="to_aya_id" ref="pedagogie.aya_6_144" />
+ <field name="name">الثمن 5</field>
+<field name="num" >117</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_118_7c57b230">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_145" />
+<field name="to_aya_id" ref="pedagogie.aya_6_150" />
+ <field name="name">الثمن 6</field>
+<field name="num" >118</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_119_7e0e2d7f">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_151" />
+<field name="to_aya_id" ref="pedagogie.aya_6_157" />
+ <field name="name">الثمن 7</field>
+<field name="num" >119</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_120_409b4187">
+<field name="soura_id" ref="pedagogie.soura_6" />
+<field name="hizb_id" ref="op_hizb_15_a59ba2d8" />
+<field name="from_aya_id" ref="pedagogie.aya_6_158" />
+<field name="to_aya_id" ref="pedagogie.aya_6_165" />
+ <field name="name">الثمن 8</field>
+<field name="num" >120</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_121_6051f980">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_0" />
+<field name="to_aya_id" ref="pedagogie.aya_7_20" />
+ <field name="name">الثمن 1</field>
+<field name="num" >121</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_122_44ff4900">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_21" />
+<field name="to_aya_id" ref="pedagogie.aya_7_31" />
+ <field name="name">الثمن 2</field>
+<field name="num" >122</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_123_b01ed608">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_32" />
+<field name="to_aya_id" ref="pedagogie.aya_7_38" />
+ <field name="name">الثمن 3</field>
+<field name="num" >123</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_124_918f6106">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_39" />
+<field name="to_aya_id" ref="pedagogie.aya_7_46" />
+ <field name="name">الثمن 4</field>
+<field name="num" >124</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_125_4f063d65">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_47" />
+<field name="to_aya_id" ref="pedagogie.aya_7_56" />
+ <field name="name">الثمن 5</field>
+<field name="num" >125</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_126_8fbadb4c">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_57" />
+<field name="to_aya_id" ref="pedagogie.aya_7_68" />
+ <field name="name">الثمن 6</field>
+<field name="num" >126</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_127_664e3c4c">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_69" />
+<field name="to_aya_id" ref="pedagogie.aya_7_76" />
+ <field name="name">الثمن 7</field>
+<field name="num" >127</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_128_e224e037">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_16_2b504519" />
+<field name="from_aya_id" ref="pedagogie.aya_7_77" />
+<field name="to_aya_id" ref="pedagogie.aya_7_87" />
+ <field name="name">الثمن 8</field>
+<field name="num" >128</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_129_a9cdc85a">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_88" />
+<field name="to_aya_id" ref="pedagogie.aya_7_99" />
+ <field name="name">الثمن 1</field>
+<field name="num" >129</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_130_a58ff52e">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_100" />
+<field name="to_aya_id" ref="pedagogie.aya_7_116" />
+ <field name="name">الثمن 2</field>
+<field name="num" >130</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_131_069ba297">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_117" />
+<field name="to_aya_id" ref="pedagogie.aya_7_131" />
+ <field name="name">الثمن 3</field>
+<field name="num" >131</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_132_6aaa8210">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_132" />
+<field name="to_aya_id" ref="pedagogie.aya_7_141" />
+ <field name="name">الثمن 4</field>
+<field name="num" >132</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_133_65f55b4c">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_142" />
+<field name="to_aya_id" ref="pedagogie.aya_7_148" />
+ <field name="name">الثمن 5</field>
+<field name="num" >133</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_134_ea9df5ad">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_149" />
+<field name="to_aya_id" ref="pedagogie.aya_7_155" />
+ <field name="name">الثمن 6</field>
+<field name="num" >134</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_135_5fcc7faf">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_156" />
+<field name="to_aya_id" ref="pedagogie.aya_7_162" />
+ <field name="name">الثمن 7</field>
+<field name="num" >135</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_136_7bf7ce3d">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_17_e415c07e" />
+<field name="from_aya_id" ref="pedagogie.aya_7_163" />
+<field name="to_aya_id" ref="pedagogie.aya_7_170" />
+ <field name="name">الثمن 8</field>
+<field name="num" >136</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_137_29fd4fc6">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_7_171" />
+<field name="to_aya_id" ref="pedagogie.aya_7_178" />
+ <field name="name">الثمن 1</field>
+<field name="num" >137</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_138_953248b4">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_7_179" />
+<field name="to_aya_id" ref="pedagogie.aya_7_187" />
+ <field name="name">الثمن 2</field>
+<field name="num" >138</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_139_8838a74f">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_7_188" />
+<field name="to_aya_id" ref="pedagogie.aya_7_198" />
+ <field name="name">الثمن 3</field>
+<field name="num" >139</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_140_821ccca7">
+<field name="soura_id" ref="pedagogie.soura_7" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_7_199" />
+<field name="to_aya_id" ref="pedagogie.aya_8_4" />
+ <field name="name">الثمن 4</field>
+<field name="num" >140</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_141_48a4cdb8">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_8_5" />
+<field name="to_aya_id" ref="pedagogie.aya_8_14" />
+ <field name="name">الثمن 5</field>
+<field name="num" >141</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_142_2343d6a5">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_8_15" />
+<field name="to_aya_id" ref="pedagogie.aya_8_21" />
+ <field name="name">الثمن 6</field>
+<field name="num" >142</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_143_cce3f86d">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_8_22" />
+<field name="to_aya_id" ref="pedagogie.aya_8_30" />
+ <field name="name">الثمن 7</field>
+<field name="num" >143</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_144_d515590b">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_18_026fcfb6" />
+<field name="from_aya_id" ref="pedagogie.aya_8_31" />
+<field name="to_aya_id" ref="pedagogie.aya_8_40" />
+ <field name="name">الثمن 8</field>
+<field name="num" >144</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_145_954542c6">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_8_41" />
+<field name="to_aya_id" ref="pedagogie.aya_8_47" />
+ <field name="name">الثمن 1</field>
+<field name="num" >145</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_146_ed4f42ff">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_8_48" />
+<field name="to_aya_id" ref="pedagogie.aya_8_59" />
+ <field name="name">الثمن 2</field>
+<field name="num" >146</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_147_0be27810">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_8_60" />
+<field name="to_aya_id" ref="pedagogie.aya_8_70" />
+ <field name="name">الثمن 3</field>
+<field name="num" >147</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_148_32bc8ab7">
+<field name="soura_id" ref="pedagogie.soura_8" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_8_71" />
+<field name="to_aya_id" ref="pedagogie.aya_9_4" />
+ <field name="name">الثمن 4</field>
+<field name="num" >148</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_149_18fd0027">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_9_5" />
+<field name="to_aya_id" ref="pedagogie.aya_9_11" />
+ <field name="name">الثمن 5</field>
+<field name="num" >149</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_150_ecdbec35">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_9_12" />
+<field name="to_aya_id" ref="pedagogie.aya_9_18" />
+ <field name="name">الثمن 6</field>
+<field name="num" >150</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_151_0ddc66cb">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_9_19" />
+<field name="to_aya_id" ref="pedagogie.aya_9_27" />
+ <field name="name">الثمن 7</field>
+<field name="num" >151</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_152_e618c4b6">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_19_05a7e24a" />
+<field name="from_aya_id" ref="pedagogie.aya_9_28" />
+<field name="to_aya_id" ref="pedagogie.aya_9_33" />
+ <field name="name">الثمن 8</field>
+<field name="num" >152</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_153_e5af9500">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_34" />
+<field name="to_aya_id" ref="pedagogie.aya_9_39" />
+ <field name="name">الثمن 1</field>
+<field name="num" >153</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_154_1ea3600c">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_40" />
+<field name="to_aya_id" ref="pedagogie.aya_9_45" />
+ <field name="name">الثمن 2</field>
+<field name="num" >154</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_155_da25d156">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_46" />
+<field name="to_aya_id" ref="pedagogie.aya_9_54" />
+ <field name="name">الثمن 3</field>
+<field name="num" >155</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_156_f4707404">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_55" />
+<field name="to_aya_id" ref="pedagogie.aya_9_60" />
+ <field name="name">الثمن 4</field>
+<field name="num" >156</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_157_e53f2b96">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_61" />
+<field name="to_aya_id" ref="pedagogie.aya_9_69" />
+ <field name="name">الثمن 5</field>
+<field name="num" >157</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_158_c5115aa9">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_70" />
+<field name="to_aya_id" ref="pedagogie.aya_9_74" />
+ <field name="name">الثمن 6</field>
+<field name="num" >158</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_159_b27ff344">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_75" />
+<field name="to_aya_id" ref="pedagogie.aya_9_84" />
+ <field name="name">الثمن 7</field>
+<field name="num" >159</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_160_1ffe046f">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_20_21d7b81c" />
+<field name="from_aya_id" ref="pedagogie.aya_9_85" />
+<field name="to_aya_id" ref="pedagogie.aya_9_92" />
+ <field name="name">الثمن 8</field>
+<field name="num" >160</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_161_55295811">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_9_93" />
+<field name="to_aya_id" ref="pedagogie.aya_9_100" />
+ <field name="name">الثمن 1</field>
+<field name="num" >161</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_162_85cf7f84">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_9_101" />
+<field name="to_aya_id" ref="pedagogie.aya_9_110" />
+ <field name="name">الثمن 2</field>
+<field name="num" >162</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_163_10f0197d">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_9_111" />
+<field name="to_aya_id" ref="pedagogie.aya_9_116" />
+ <field name="name">الثمن 3</field>
+<field name="num" >163</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_164_d48b63ce">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_9_117" />
+<field name="to_aya_id" ref="pedagogie.aya_9_122" />
+ <field name="name">الثمن 4</field>
+<field name="num" >164</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_165_22d04469">
+<field name="soura_id" ref="pedagogie.soura_9" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_9_123" />
+<field name="to_aya_id" ref="pedagogie.aya_9_129" />
+ <field name="name">الثمن 5</field>
+<field name="num" >165</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_166_170e1656">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_10_0" />
+<field name="to_aya_id" ref="pedagogie.aya_10_10" />
+ <field name="name">الثمن 6</field>
+<field name="num" >166</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_167_e4a6a577">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_10_11" />
+<field name="to_aya_id" ref="pedagogie.aya_10_18" />
+ <field name="name">الثمن 7</field>
+<field name="num" >167</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_168_003da07d">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_21_b5c8f8ba" />
+<field name="from_aya_id" ref="pedagogie.aya_10_19" />
+<field name="to_aya_id" ref="pedagogie.aya_10_25" />
+ <field name="name">الثمن 8</field>
+<field name="num" >168</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_169_a7759722">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_26" />
+<field name="to_aya_id" ref="pedagogie.aya_10_36" />
+ <field name="name">الثمن 1</field>
+<field name="num" >169</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_170_1c19d895">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_37" />
+<field name="to_aya_id" ref="pedagogie.aya_10_48" />
+ <field name="name">الثمن 2</field>
+<field name="num" >170</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_171_5a40d7ae">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_49" />
+<field name="to_aya_id" ref="pedagogie.aya_10_60" />
+ <field name="name">الثمن 3</field>
+<field name="num" >171</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_172_245e69e9">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_61" />
+<field name="to_aya_id" ref="pedagogie.aya_10_70" />
+ <field name="name">الثمن 4</field>
+<field name="num" >172</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_173_5cf393ea">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_71" />
+<field name="to_aya_id" ref="pedagogie.aya_10_82" />
+ <field name="name">الثمن 5</field>
+<field name="num" >173</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_174_c813c9fa">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_83" />
+<field name="to_aya_id" ref="pedagogie.aya_10_92" />
+ <field name="name">الثمن 6</field>
+<field name="num" >174</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_175_1db9d6e8">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_93" />
+<field name="to_aya_id" ref="pedagogie.aya_10_103" />
+ <field name="name">الثمن 7</field>
+<field name="num" >175</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_176_56529771">
+<field name="soura_id" ref="pedagogie.soura_10" />
+<field name="hizb_id" ref="op_hizb_22_86598933" />
+<field name="from_aya_id" ref="pedagogie.aya_10_104" />
+<field name="to_aya_id" ref="pedagogie.aya_11_5" />
+ <field name="name">الثمن 8</field>
+<field name="num" >176</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_177_4823d9ee">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_6" />
+<field name="to_aya_id" ref="pedagogie.aya_11_14" />
+ <field name="name">الثمن 1</field>
+<field name="num" >177</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_178_475e7929">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_15" />
+<field name="to_aya_id" ref="pedagogie.aya_11_23" />
+ <field name="name">الثمن 2</field>
+<field name="num" >178</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_179_2039ccf2">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_24" />
+<field name="to_aya_id" ref="pedagogie.aya_11_31" />
+ <field name="name">الثمن 3</field>
+<field name="num" >179</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_180_bc5d01a6">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_32" />
+<field name="to_aya_id" ref="pedagogie.aya_11_40" />
+ <field name="name">الثمن 4</field>
+<field name="num" >180</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_181_628a6e9b">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_41" />
+<field name="to_aya_id" ref="pedagogie.aya_11_49" />
+ <field name="name">الثمن 5</field>
+<field name="num" >181</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_182_7e70a461">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_50" />
+<field name="to_aya_id" ref="pedagogie.aya_11_60" />
+ <field name="name">الثمن 6</field>
+<field name="num" >182</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_183_14613d27">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_61" />
+<field name="to_aya_id" ref="pedagogie.aya_11_72" />
+ <field name="name">الثمن 7</field>
+<field name="num" >183</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_184_3f7b7601">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_23_c6841856" />
+<field name="from_aya_id" ref="pedagogie.aya_11_73" />
+<field name="to_aya_id" ref="pedagogie.aya_11_83" />
+ <field name="name">الثمن 8</field>
+<field name="num" >184</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_185_5e46c319">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_11_84" />
+<field name="to_aya_id" ref="pedagogie.aya_11_92" />
+ <field name="name">الثمن 1</field>
+<field name="num" >185</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_186_09ab5636">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_11_93" />
+<field name="to_aya_id" ref="pedagogie.aya_11_104" />
+ <field name="name">الثمن 2</field>
+<field name="num" >186</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_187_4221041e">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_11_105" />
+<field name="to_aya_id" ref="pedagogie.aya_11_117" />
+ <field name="name">الثمن 3</field>
+<field name="num" >187</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_188_925ba95c">
+<field name="soura_id" ref="pedagogie.soura_11" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_11_118" />
+<field name="to_aya_id" ref="pedagogie.aya_12_9" />
+ <field name="name">الثمن 4</field>
+<field name="num" >188</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_189_85124643">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_12_10" />
+<field name="to_aya_id" ref="pedagogie.aya_12_22" />
+ <field name="name">الثمن 5</field>
+<field name="num" >189</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_190_01a96ad1">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_12_23" />
+<field name="to_aya_id" ref="pedagogie.aya_12_32" />
+ <field name="name">الثمن 6</field>
+<field name="num" >190</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_191_6cd9f093">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_12_33" />
+<field name="to_aya_id" ref="pedagogie.aya_12_41" />
+ <field name="name">الثمن 7</field>
+<field name="num" >191</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_192_e7e29de4">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_24_089f2d2d" />
+<field name="from_aya_id" ref="pedagogie.aya_12_42" />
+<field name="to_aya_id" ref="pedagogie.aya_12_52" />
+ <field name="name">الثمن 8</field>
+<field name="num" >192</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_193_efbfb36c">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_12_53" />
+<field name="to_aya_id" ref="pedagogie.aya_12_65" />
+ <field name="name">الثمن 1</field>
+<field name="num" >193</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_194_2be0cb8b">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_12_66" />
+<field name="to_aya_id" ref="pedagogie.aya_12_76" />
+ <field name="name">الثمن 2</field>
+<field name="num" >194</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_195_cc9f8b13">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_12_77" />
+<field name="to_aya_id" ref="pedagogie.aya_12_87" />
+ <field name="name">الثمن 3</field>
+<field name="num" >195</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_196_4ab4366a">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_12_88" />
+<field name="to_aya_id" ref="pedagogie.aya_12_100" />
+ <field name="name">الثمن 4</field>
+<field name="num" >196</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_197_84226a9e">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_12_101" />
+<field name="to_aya_id" ref="pedagogie.aya_12_110" />
+ <field name="name">الثمن 5</field>
+<field name="num" >197</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_198_4eb79a18">
+<field name="soura_id" ref="pedagogie.soura_12" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_12_111" />
+<field name="to_aya_id" ref="pedagogie.aya_13_4" />
+ <field name="name">الثمن 6</field>
+<field name="num" >198</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_199_a41f3857">
+<field name="soura_id" ref="pedagogie.soura_13" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_13_5" />
+<field name="to_aya_id" ref="pedagogie.aya_13_13" />
+ <field name="name">الثمن 7</field>
+<field name="num" >199</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_200_aa5b3a87">
+<field name="soura_id" ref="pedagogie.soura_13" />
+<field name="hizb_id" ref="op_hizb_25_a687d293" />
+<field name="from_aya_id" ref="pedagogie.aya_13_14" />
+<field name="to_aya_id" ref="pedagogie.aya_13_18" />
+ <field name="name">الثمن 8</field>
+<field name="num" >200</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_201_a9d2c828">
+<field name="soura_id" ref="pedagogie.soura_13" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_13_19" />
+<field name="to_aya_id" ref="pedagogie.aya_13_29" />
+ <field name="name">الثمن 1</field>
+<field name="num" >201</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_202_c4c589e4">
+<field name="soura_id" ref="pedagogie.soura_13" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_13_30" />
+<field name="to_aya_id" ref="pedagogie.aya_13_34" />
+ <field name="name">الثمن 2</field>
+<field name="num" >202</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_203_f9674e4e">
+<field name="soura_id" ref="pedagogie.soura_13" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_13_35" />
+<field name="to_aya_id" ref="pedagogie.aya_13_43" />
+ <field name="name">الثمن 3</field>
+<field name="num" >203</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_204_dadf3dfe">
+<field name="soura_id" ref="pedagogie.soura_14" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_14_0" />
+<field name="to_aya_id" ref="pedagogie.aya_14_9" />
+ <field name="name">الثمن 4</field>
+<field name="num" >204</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_205_b0b5a92c">
+<field name="soura_id" ref="pedagogie.soura_14" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_14_10" />
+<field name="to_aya_id" ref="pedagogie.aya_14_18" />
+ <field name="name">الثمن 5</field>
+<field name="num" >205</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_206_92c5813f">
+<field name="soura_id" ref="pedagogie.soura_14" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_14_19" />
+<field name="to_aya_id" ref="pedagogie.aya_14_27" />
+ <field name="name">الثمن 6</field>
+<field name="num" >206</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_207_528e414b">
+<field name="soura_id" ref="pedagogie.soura_14" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_14_28" />
+<field name="to_aya_id" ref="pedagogie.aya_14_38" />
+ <field name="name">الثمن 7</field>
+<field name="num" >207</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_208_22776d11">
+<field name="soura_id" ref="pedagogie.soura_14" />
+<field name="hizb_id" ref="op_hizb_26_0057d4f3" />
+<field name="from_aya_id" ref="pedagogie.aya_14_39" />
+<field name="to_aya_id" ref="pedagogie.aya_14_52" />
+ <field name="name">الثمن 8</field>
+<field name="num" >208</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_209_e32dec5b">
+<field name="soura_id" ref="pedagogie.soura_15" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_15_0" />
+<field name="to_aya_id" ref="pedagogie.aya_15_21" />
+ <field name="name">الثمن 1</field>
+<field name="num" >209</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_210_987a8738">
+<field name="soura_id" ref="pedagogie.soura_15" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_15_22" />
+<field name="to_aya_id" ref="pedagogie.aya_15_48" />
+ <field name="name">الثمن 2</field>
+<field name="num" >210</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_211_b30b7290">
+<field name="soura_id" ref="pedagogie.soura_15" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_15_49" />
+<field name="to_aya_id" ref="pedagogie.aya_15_77" />
+ <field name="name">الثمن 3</field>
+<field name="num" >211</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_212_7c7a8d3c">
+<field name="soura_id" ref="pedagogie.soura_15" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_15_78" />
+<field name="to_aya_id" ref="pedagogie.aya_15_99" />
+ <field name="name">الثمن 4</field>
+<field name="num" >212</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_213_56adcd22">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_16_0" />
+<field name="to_aya_id" ref="pedagogie.aya_16_14" />
+ <field name="name">الثمن 5</field>
+<field name="num" >213</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_214_59b2f991">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_16_15" />
+<field name="to_aya_id" ref="pedagogie.aya_16_29" />
+ <field name="name">الثمن 6</field>
+<field name="num" >214</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_215_5fe82973">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_16_30" />
+<field name="to_aya_id" ref="pedagogie.aya_16_37" />
+ <field name="name">الثمن 7</field>
+<field name="num" >215</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_216_8766631f">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_27_7f014f44" />
+<field name="from_aya_id" ref="pedagogie.aya_16_38" />
+<field name="to_aya_id" ref="pedagogie.aya_16_50" />
+ <field name="name">الثمن 8</field>
+<field name="num" >216</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_217_975195e2">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_51" />
+<field name="to_aya_id" ref="pedagogie.aya_16_62" />
+ <field name="name">الثمن 1</field>
+<field name="num" >217</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_218_a140329d">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_63" />
+<field name="to_aya_id" ref="pedagogie.aya_16_70" />
+ <field name="name">الثمن 2</field>
+<field name="num" >218</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_219_d5f8cac2">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_71" />
+<field name="to_aya_id" ref="pedagogie.aya_16_78" />
+ <field name="name">الثمن 3</field>
+<field name="num" >219</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_220_36774c60">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_79" />
+<field name="to_aya_id" ref="pedagogie.aya_16_89" />
+ <field name="name">الثمن 4</field>
+<field name="num" >220</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_221_1f465dd7">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_90" />
+<field name="to_aya_id" ref="pedagogie.aya_16_97" />
+ <field name="name">الثمن 5</field>
+<field name="num" >221</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_222_5232933e">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_98" />
+<field name="to_aya_id" ref="pedagogie.aya_16_110" />
+ <field name="name">الثمن 6</field>
+<field name="num" >222</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_223_eece4cb2">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_111" />
+<field name="to_aya_id" ref="pedagogie.aya_16_119" />
+ <field name="name">الثمن 7</field>
+<field name="num" >223</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_224_4a81daaa">
+<field name="soura_id" ref="pedagogie.soura_16" />
+<field name="hizb_id" ref="op_hizb_28_a4064dc8" />
+<field name="from_aya_id" ref="pedagogie.aya_16_120" />
+<field name="to_aya_id" ref="pedagogie.aya_16_128" />
+ <field name="name">الثمن 8</field>
+<field name="num" >224</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_225_bdba42ea">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_0" />
+<field name="to_aya_id" ref="pedagogie.aya_17_10" />
+ <field name="name">الثمن 1</field>
+<field name="num" >225</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_226_6f434fd4">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_11" />
+<field name="to_aya_id" ref="pedagogie.aya_17_22" />
+ <field name="name">الثمن 2</field>
+<field name="num" >226</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_227_5e18b595">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_23" />
+<field name="to_aya_id" ref="pedagogie.aya_17_35" />
+ <field name="name">الثمن 3</field>
+<field name="num" >227</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_228_691b2aa4">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_36" />
+<field name="to_aya_id" ref="pedagogie.aya_17_49" />
+ <field name="name">الثمن 4</field>
+<field name="num" >228</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_229_6d29ab3d">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_50" />
+<field name="to_aya_id" ref="pedagogie.aya_17_60" />
+ <field name="name">الثمن 5</field>
+<field name="num" >229</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_230_2c8e1924">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_61" />
+<field name="to_aya_id" ref="pedagogie.aya_17_69" />
+ <field name="name">الثمن 6</field>
+<field name="num" >230</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_231_40328514">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_70" />
+<field name="to_aya_id" ref="pedagogie.aya_17_84" />
+ <field name="name">الثمن 7</field>
+<field name="num" >231</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_232_83f13ef2">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_29_d8f97c89" />
+<field name="from_aya_id" ref="pedagogie.aya_17_85" />
+<field name="to_aya_id" ref="pedagogie.aya_17_98" />
+ <field name="name">الثمن 8</field>
+<field name="num" >232</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_233_2a2da096">
+<field name="soura_id" ref="pedagogie.soura_17" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_17_99" />
+<field name="to_aya_id" ref="pedagogie.aya_17_111" />
+ <field name="name">الثمن 1</field>
+<field name="num" >233</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_234_5a1c77e9">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_0" />
+<field name="to_aya_id" ref="pedagogie.aya_18_16" />
+ <field name="name">الثمن 2</field>
+<field name="num" >234</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_235_8bd7c28d">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_17" />
+<field name="to_aya_id" ref="pedagogie.aya_18_221" />
+ <field name="name">الثمن 3</field>
+<field name="num" >235</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_236_c22d429e">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_222" />
+<field name="to_aya_id" ref="pedagogie.aya_18_29" />
+ <field name="name">الثمن 4</field>
+<field name="num" >236</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_237_2ed31314">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_30" />
+<field name="to_aya_id" ref="pedagogie.aya_18_40" />
+ <field name="name">الثمن 5</field>
+<field name="num" >237</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_238_835776d6">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_41" />
+<field name="to_aya_id" ref="pedagogie.aya_18_49" />
+ <field name="name">الثمن 6</field>
+<field name="num" >238</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_239_85b916a8">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_50" />
+<field name="to_aya_id" ref="pedagogie.aya_18_58" />
+ <field name="name">الثمن 7</field>
+<field name="num" >239</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_240_c1ae8cb2">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_30_33365339" />
+<field name="from_aya_id" ref="pedagogie.aya_18_59" />
+<field name="to_aya_id" ref="pedagogie.aya_18_74" />
+ <field name="name">الثمن 8</field>
+<field name="num" >240</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_241_e38d5696">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_18_75" />
+<field name="to_aya_id" ref="pedagogie.aya_18_87" />
+ <field name="name">الثمن 1</field>
+<field name="num" >241</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_242_d7bb4c14">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_18_88" />
+<field name="to_aya_id" ref="pedagogie.aya_18_101" />
+ <field name="name">الثمن 2</field>
+<field name="num" >242</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_243_90900d4f">
+<field name="soura_id" ref="pedagogie.soura_18" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_18_102" />
+<field name="to_aya_id" ref="pedagogie.aya_19_6" />
+ <field name="name">الثمن 3</field>
+<field name="num" >243</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_244_90541d3b">
+<field name="soura_id" ref="pedagogie.soura_19" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_19_7" />
+<field name="to_aya_id" ref="pedagogie.aya_19_21" />
+ <field name="name">الثمن 4</field>
+<field name="num" >244</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_245_eef33f92">
+<field name="soura_id" ref="pedagogie.soura_19" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_19_22" />
+<field name="to_aya_id" ref="pedagogie.aya_19_40" />
+ <field name="name">الثمن 5</field>
+<field name="num" >245</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_246_a14856eb">
+<field name="soura_id" ref="pedagogie.soura_19" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_19_41" />
+<field name="to_aya_id" ref="pedagogie.aya_19_58" />
+ <field name="name">الثمن 6</field>
+<field name="num" >246</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_247_2b1c4bfa">
+<field name="soura_id" ref="pedagogie.soura_19" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_19_59" />
+<field name="to_aya_id" ref="pedagogie.aya_19_74" />
+ <field name="name">الثمن 7</field>
+<field name="num" >247</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_248_70b96bab">
+<field name="soura_id" ref="pedagogie.soura_19" />
+<field name="hizb_id" ref="op_hizb_31_c3a22c91" />
+<field name="from_aya_id" ref="pedagogie.aya_19_75" />
+<field name="to_aya_id" ref="pedagogie.aya_19_98" />
+ <field name="name">الثمن 8</field>
+<field name="num" >248</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_249_3e3f72ae">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_0" />
+<field name="to_aya_id" ref="pedagogie.aya_20_35" />
+ <field name="name">الثمن 1</field>
+<field name="num" >249</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_250_71ce1fc2">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_36" />
+<field name="to_aya_id" ref="pedagogie.aya_20_54" />
+ <field name="name">الثمن 2</field>
+<field name="num" >250</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_251_ac761e1a">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_55" />
+<field name="to_aya_id" ref="pedagogie.aya_20_71" />
+ <field name="name">الثمن 3</field>
+<field name="num" >251</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_252_36265b1d">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_72" />
+<field name="to_aya_id" ref="pedagogie.aya_20_82" />
+ <field name="name">الثمن 4</field>
+<field name="num" >252</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_253_998b02a4">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_83" />
+<field name="to_aya_id" ref="pedagogie.aya_20_96" />
+ <field name="name">الثمن 5</field>
+<field name="num" >253</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_254_1eeb0c76">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_97" />
+<field name="to_aya_id" ref="pedagogie.aya_20_110" />
+ <field name="name">الثمن 6</field>
+<field name="num" >254</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_255_bb9fb72a">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_111" />
+<field name="to_aya_id" ref="pedagogie.aya_20_125" />
+ <field name="name">الثمن 7</field>
+<field name="num" >255</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_256_f72d0b58">
+<field name="soura_id" ref="pedagogie.soura_20" />
+<field name="hizb_id" ref="op_hizb_32_f428349f" />
+<field name="from_aya_id" ref="pedagogie.aya_20_126" />
+<field name="to_aya_id" ref="pedagogie.aya_20_135" />
+ <field name="name">الثمن 8</field>
+<field name="num" >256</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_257_59b9fb7d">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_0" />
+<field name="to_aya_id" ref="pedagogie.aya_21_14" />
+ <field name="name">الثمن 1</field>
+<field name="num" >257</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_258_53862ef6">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_15" />
+<field name="to_aya_id" ref="pedagogie.aya_21_29" />
+ <field name="name">الثمن 2</field>
+<field name="num" >258</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_259_1c90de63">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_30" />
+<field name="to_aya_id" ref="pedagogie.aya_21_41" />
+ <field name="name">الثمن 3</field>
+<field name="num" >259</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_260_3318e255">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_42" />
+<field name="to_aya_id" ref="pedagogie.aya_21_50" />
+ <field name="name">الثمن 4</field>
+<field name="num" >260</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_261_88bb047d">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_51" />
+<field name="to_aya_id" ref="pedagogie.aya_21_72" />
+ <field name="name">الثمن 5</field>
+<field name="num" >261</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_262_d88336a1">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_73" />
+<field name="to_aya_id" ref="pedagogie.aya_21_86" />
+ <field name="name">الثمن 6</field>
+<field name="num" >262</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_263_11e614e9">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_87" />
+<field name="to_aya_id" ref="pedagogie.aya_21_100" />
+ <field name="name">الثمن 7</field>
+<field name="num" >263</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_264_ce32765e">
+<field name="soura_id" ref="pedagogie.soura_21" />
+<field name="hizb_id" ref="op_hizb_33_76ab44fd" />
+<field name="from_aya_id" ref="pedagogie.aya_21_101" />
+<field name="to_aya_id" ref="pedagogie.aya_21_112" />
+ <field name="name">الثمن 8</field>
+<field name="num" >264</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_265_bfcaeff6">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_0" />
+<field name="to_aya_id" ref="pedagogie.aya_22_10" />
+ <field name="name">الثمن 1</field>
+<field name="num" >265</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_266_a643e128">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_11" />
+<field name="to_aya_id" ref="pedagogie.aya_22_18" />
+ <field name="name">الثمن 2</field>
+<field name="num" >266</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_267_229beb98">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_19" />
+<field name="to_aya_id" ref="pedagogie.aya_22_29" />
+ <field name="name">الثمن 3</field>
+<field name="num" >267</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_268_b2991c42">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_30" />
+<field name="to_aya_id" ref="pedagogie.aya_22_37" />
+ <field name="name">الثمن 4</field>
+<field name="num" >268</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_269_0e08cc46">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_38" />
+<field name="to_aya_id" ref="pedagogie.aya_22_48" />
+ <field name="name">الثمن 5</field>
+<field name="num" >269</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_270_1e9e3a44">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_49" />
+<field name="to_aya_id" ref="pedagogie.aya_22_59" />
+ <field name="name">الثمن 6</field>
+<field name="num" >270</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_271_7205b77b">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_60" />
+<field name="to_aya_id" ref="pedagogie.aya_22_71" />
+ <field name="name">الثمن 7</field>
+<field name="num" >271</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_272_760b84f4">
+<field name="soura_id" ref="pedagogie.soura_22" />
+<field name="hizb_id" ref="op_hizb_34_884e5893" />
+<field name="from_aya_id" ref="pedagogie.aya_22_72" />
+<field name="to_aya_id" ref="pedagogie.aya_22_78" />
+ <field name="name">الثمن 8</field>
+<field name="num" >272</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_273_63f6d128">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_0" />
+<field name="to_aya_id" ref="pedagogie.aya_23_23" />
+ <field name="name">الثمن 1</field>
+<field name="num" >273</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_274_0ea91bfc">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_24" />
+<field name="to_aya_id" ref="pedagogie.aya_23_38" />
+ <field name="name">الثمن 2</field>
+<field name="num" >274</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_275_913f8a7a">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_39" />
+<field name="to_aya_id" ref="pedagogie.aya_23_56" />
+ <field name="name">الثمن 3</field>
+<field name="num" >275</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_276_f3e9a13d">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_57" />
+<field name="to_aya_id" ref="pedagogie.aya_23_74" />
+ <field name="name">الثمن 4</field>
+<field name="num" >276</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_277_61ac31c0">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_75" />
+<field name="to_aya_id" ref="pedagogie.aya_23_92" />
+ <field name="name">الثمن 5</field>
+<field name="num" >277</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_278_855ea7d3">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_93" />
+<field name="to_aya_id" ref="pedagogie.aya_23_114" />
+ <field name="name">الثمن 6</field>
+<field name="num" >278</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_279_80cc6570">
+<field name="soura_id" ref="pedagogie.soura_23" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_23_115" />
+<field name="to_aya_id" ref="pedagogie.aya_24_10" />
+ <field name="name">الثمن 7</field>
+<field name="num" >279</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_280_f1335fa1">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_35_d6e2cb71" />
+<field name="from_aya_id" ref="pedagogie.aya_24_11" />
+<field name="to_aya_id" ref="pedagogie.aya_24_20" />
+ <field name="name">الثمن 8</field>
+<field name="num" >280</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_281_4767e56f">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_21" />
+<field name="to_aya_id" ref="pedagogie.aya_24_29" />
+ <field name="name">الثمن 1</field>
+<field name="num" >281</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_282_42e29539">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_30" />
+<field name="to_aya_id" ref="pedagogie.aya_24_34" />
+ <field name="name">الثمن 2</field>
+<field name="num" >282</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_283_654b5957">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_35" />
+<field name="to_aya_id" ref="pedagogie.aya_24_42" />
+ <field name="name">الثمن 3</field>
+<field name="num" >283</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_284_bbe84f81">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_43" />
+<field name="to_aya_id" ref="pedagogie.aya_24_52" />
+ <field name="name">الثمن 4</field>
+<field name="num" >284</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_285_2ac05b61">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_53" />
+<field name="to_aya_id" ref="pedagogie.aya_24_59" />
+ <field name="name">الثمن 5</field>
+<field name="num" >285</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_286_d58ffc89">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_60" />
+<field name="to_aya_id" ref="pedagogie.aya_24_62" />
+ <field name="name">الثمن 6</field>
+<field name="num" >286</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_287_6ff7ecd0">
+<field name="soura_id" ref="pedagogie.soura_24" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_24_63" />
+<field name="to_aya_id" ref="pedagogie.aya_25_9" />
+ <field name="name">الثمن 7</field>
+<field name="num" >287</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_288_33fdef8e">
+<field name="soura_id" ref="pedagogie.soura_25" />
+<field name="hizb_id" ref="op_hizb_36_43093c54" />
+<field name="from_aya_id" ref="pedagogie.aya_25_10" />
+<field name="to_aya_id" ref="pedagogie.aya_25_20" />
+ <field name="name">الثمن 8</field>
+<field name="num" >288</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_289_9238d80a">
+<field name="soura_id" ref="pedagogie.soura_25" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_25_21" />
+<field name="to_aya_id" ref="pedagogie.aya_25_34" />
+ <field name="name">الثمن 1</field>
+<field name="num" >289</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_290_7f4e1c63">
+<field name="soura_id" ref="pedagogie.soura_25" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_25_35" />
+<field name="to_aya_id" ref="pedagogie.aya_25_44" />
+ <field name="name">الثمن 2</field>
+<field name="num" >290</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_291_75a7b909">
+<field name="soura_id" ref="pedagogie.soura_25" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_25_45" />
+<field name="to_aya_id" ref="pedagogie.aya_25_60" />
+ <field name="name">الثمن 3</field>
+<field name="num" >291</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_292_7ca40f40">
+<field name="soura_id" ref="pedagogie.soura_25" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_25_61" />
+<field name="to_aya_id" ref="pedagogie.aya_25_77" />
+ <field name="name">الثمن 4</field>
+<field name="num" >292</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_293_2f429e30">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_26_0" />
+<field name="to_aya_id" ref="pedagogie.aya_26_24" />
+ <field name="name">الثمن 5</field>
+<field name="num" >293</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_294_c245081e">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_26_25" />
+<field name="to_aya_id" ref="pedagogie.aya_26_49" />
+ <field name="name">الثمن 6</field>
+<field name="num" >294</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_295_f8186f8c">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_26_50" />
+<field name="to_aya_id" ref="pedagogie.aya_26_81" />
+ <field name="name">الثمن 7</field>
+<field name="num" >295</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_296_7e5632f9">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_37_bb047b7a" />
+<field name="from_aya_id" ref="pedagogie.aya_26_82" />
+<field name="to_aya_id" ref="pedagogie.aya_26_110" />
+ <field name="name">الثمن 8</field>
+<field name="num" >296</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_297_57e1558d">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_26_111" />
+<field name="to_aya_id" ref="pedagogie.aya_26_145" />
+ <field name="name">الثمن 1</field>
+<field name="num" >297</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_298_020fc045">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_26_146" />
+<field name="to_aya_id" ref="pedagogie.aya_26_180" />
+ <field name="name">الثمن 2</field>
+<field name="num" >298</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_299_b3d3f227">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_26_181" />
+<field name="to_aya_id" ref="pedagogie.aya_26_209" />
+ <field name="name">الثمن 3</field>
+<field name="num" >299</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_300_84aeaa50">
+<field name="soura_id" ref="pedagogie.soura_26" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_26_210" />
+<field name="to_aya_id" ref="pedagogie.aya_26_227" />
+ <field name="name">الثمن 4</field>
+<field name="num" >300</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_301_86b2683f">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_27_0" />
+<field name="to_aya_id" ref="pedagogie.aya_27_16" />
+ <field name="name">الثمن 5</field>
+<field name="num" >301</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_302_9d8c146e">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_27_17" />
+<field name="to_aya_id" ref="pedagogie.aya_27_26" />
+ <field name="name">الثمن 6</field>
+<field name="num" >302</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_303_d02efa7d">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_27_27" />
+<field name="to_aya_id" ref="pedagogie.aya_27_40" />
+ <field name="name">الثمن 7</field>
+<field name="num" >303</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_304_35903d0b">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_38_3f076b90" />
+<field name="from_aya_id" ref="pedagogie.aya_27_41" />
+<field name="to_aya_id" ref="pedagogie.aya_27_55" />
+ <field name="name">الثمن 8</field>
+<field name="num" >304</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_305_f678c52e">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_27_56" />
+<field name="to_aya_id" ref="pedagogie.aya_27_65" />
+ <field name="name">الثمن 1</field>
+<field name="num" >305</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_306_36663548">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_27_66" />
+<field name="to_aya_id" ref="pedagogie.aya_27_81" />
+ <field name="name">الثمن 2</field>
+<field name="num" >306</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_307_e91e097d">
+<field name="soura_id" ref="pedagogie.soura_27" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_27_82" />
+<field name="to_aya_id" ref="pedagogie.aya_27_93" />
+ <field name="name">الثمن 3</field>
+<field name="num" >307</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_308_e5722b5c">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_28_0" />
+<field name="to_aya_id" ref="pedagogie.aya_28_11" />
+ <field name="name">الثمن 4</field>
+<field name="num" >308</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_309_07d80e82">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_28_12" />
+<field name="to_aya_id" ref="pedagogie.aya_28_21" />
+ <field name="name">الثمن 5</field>
+<field name="num" >309</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_310_a2ce22b8">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_28_22" />
+<field name="to_aya_id" ref="pedagogie.aya_28_28" />
+ <field name="name">الثمن 6</field>
+<field name="num" >310</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_311_bffa3dec">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_28_29" />
+<field name="to_aya_id" ref="pedagogie.aya_28_38" />
+ <field name="name">الثمن 7</field>
+<field name="num" >311</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_312_d008fc5c">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_39_0c4eaec0" />
+<field name="from_aya_id" ref="pedagogie.aya_28_39" />
+<field name="to_aya_id" ref="pedagogie.aya_28_50" />
+ <field name="name">الثمن 8</field>
+<field name="num" >312</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_313_3bb65893">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_28_51" />
+<field name="to_aya_id" ref="pedagogie.aya_28_62" />
+ <field name="name">الثمن 1</field>
+<field name="num" >313</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_314_7cf520f1">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_28_63" />
+<field name="to_aya_id" ref="pedagogie.aya_28_75" />
+ <field name="name">الثمن 2</field>
+<field name="num" >314</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_315_c831c573">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_28_76" />
+<field name="to_aya_id" ref="pedagogie.aya_28_82" />
+ <field name="name">الثمن 3</field>
+<field name="num" >315</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_316_f00eff71">
+<field name="soura_id" ref="pedagogie.soura_28" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_28_83" />
+<field name="to_aya_id" ref="pedagogie.aya_29_7" />
+ <field name="name">الثمن 4</field>
+<field name="num" >316</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_317_d10d118e">
+<field name="soura_id" ref="pedagogie.soura_29" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_29_8" />
+<field name="to_aya_id" ref="pedagogie.aya_29_16" />
+ <field name="name">الثمن 5</field>
+<field name="num" >317</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_318_929986b9">
+<field name="soura_id" ref="pedagogie.soura_29" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_29_17" />
+<field name="to_aya_id" ref="pedagogie.aya_29_25" />
+ <field name="name">الثمن 6</field>
+<field name="num" >318</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_319_fea4e67b">
+<field name="soura_id" ref="pedagogie.soura_29" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_29_26" />
+<field name="to_aya_id" ref="pedagogie.aya_29_35" />
+ <field name="name">الثمن 7</field>
+<field name="num" >319</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_320_5d446677">
+<field name="soura_id" ref="pedagogie.soura_29" />
+<field name="hizb_id" ref="op_hizb_40_67af567f" />
+<field name="from_aya_id" ref="pedagogie.aya_29_36" />
+<field name="to_aya_id" ref="pedagogie.aya_29_45" />
+ <field name="name">الثمن 8</field>
+<field name="num" >320</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_321_772a60e7">
+<field name="soura_id" ref="pedagogie.soura_29" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_29_46" />
+<field name="to_aya_id" ref="pedagogie.aya_29_59" />
+ <field name="name">الثمن 1</field>
+<field name="num" >321</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_322_ba23753c">
+<field name="soura_id" ref="pedagogie.soura_29" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_29_60" />
+<field name="to_aya_id" ref="pedagogie.aya_30_8" />
+ <field name="name">الثمن 2</field>
+<field name="num" >322</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_323_e56a6499">
+<field name="soura_id" ref="pedagogie.soura_30" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_30_9" />
+<field name="to_aya_id" ref="pedagogie.aya_30_21" />
+ <field name="name">الثمن 3</field>
+<field name="num" >323</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_324_6289d411">
+<field name="soura_id" ref="pedagogie.soura_30" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_30_22" />
+<field name="to_aya_id" ref="pedagogie.aya_30_29" />
+ <field name="name">الثمن 4</field>
+<field name="num" >324</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_325_f5441e52">
+<field name="soura_id" ref="pedagogie.soura_30" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_30_30" />
+<field name="to_aya_id" ref="pedagogie.aya_30_40" />
+ <field name="name">الثمن 5</field>
+<field name="num" >325</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_326_c201bd81">
+<field name="soura_id" ref="pedagogie.soura_30" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_30_41" />
+<field name="to_aya_id" ref="pedagogie.aya_30_53" />
+ <field name="name">الثمن 6</field>
+<field name="num" >326</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_327_bfb55bb5">
+<field name="soura_id" ref="pedagogie.soura_30" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_30_54" />
+<field name="to_aya_id" ref="pedagogie.aya_31_11" />
+ <field name="name">الثمن 7</field>
+<field name="num" >327</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_328_e680f1f5">
+<field name="soura_id" ref="pedagogie.soura_31" />
+<field name="hizb_id" ref="op_hizb_41_577eba7d" />
+<field name="from_aya_id" ref="pedagogie.aya_31_12" />
+<field name="to_aya_id" ref="pedagogie.aya_31_21" />
+ <field name="name">الثمن 8</field>
+<field name="num" >328</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_329_ccf62cb8">
+<field name="soura_id" ref="pedagogie.soura_31" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_31_22" />
+<field name="to_aya_id" ref="pedagogie.aya_31_32" />
+ <field name="name">الثمن 1</field>
+<field name="num" >329</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_330_92af22ba">
+<field name="soura_id" ref="pedagogie.soura_31" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_31_33" />
+<field name="to_aya_id" ref="pedagogie.aya_32_10" />
+ <field name="name">الثمن 2</field>
+<field name="num" >330</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_331_f418c77a">
+<field name="soura_id" ref="pedagogie.soura_32" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_32_11" />
+<field name="to_aya_id" ref="pedagogie.aya_32_22" />
+ <field name="name">الثمن 3</field>
+<field name="num" >331</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_332_e17a0d29">
+<field name="soura_id" ref="pedagogie.soura_32" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_32_23" />
+<field name="to_aya_id" ref="pedagogie.aya_33_5" />
+ <field name="name">الثمن 4</field>
+<field name="num" >332</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_333_35792124">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_33_6" />
+<field name="to_aya_id" ref="pedagogie.aya_33_12" />
+ <field name="name">الثمن 5</field>
+<field name="num" >333</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_334_953b7d51">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_33_13" />
+<field name="to_aya_id" ref="pedagogie.aya_33_17" />
+ <field name="name">الثمن 6</field>
+<field name="num" >334</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_335_41614904">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_33_18" />
+<field name="to_aya_id" ref="pedagogie.aya_33_24" />
+ <field name="name">الثمن 7</field>
+<field name="num" >335</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_336_92da14a7">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_42_0ff19eae" />
+<field name="from_aya_id" ref="pedagogie.aya_33_25" />
+<field name="to_aya_id" ref="pedagogie.aya_33_30" />
+ <field name="name">الثمن 8</field>
+<field name="num" >336</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_337_125b7c43">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_33_31" />
+<field name="to_aya_id" ref="pedagogie.aya_33_371" />
+ <field name="name">الثمن 1</field>
+<field name="num" >337</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_338_f98a53df">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_33_372" />
+<field name="to_aya_id" ref="pedagogie.aya_33_48" />
+ <field name="name">الثمن 2</field>
+<field name="num" >338</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_339_b571353c">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_33_49" />
+<field name="to_aya_id" ref="pedagogie.aya_33_52" />
+ <field name="name">الثمن 3</field>
+<field name="num" >339</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_340_f1039f5e">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_33_53" />
+<field name="to_aya_id" ref="pedagogie.aya_33_59" />
+ <field name="name">الثمن 4</field>
+<field name="num" >340</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_341_f9787146">
+<field name="soura_id" ref="pedagogie.soura_33" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_33_60" />
+<field name="to_aya_id" ref="pedagogie.aya_33_73" />
+ <field name="name">الثمن 5</field>
+<field name="num" >341</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_342_4ff5effc">
+<field name="soura_id" ref="pedagogie.soura_34" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_34_0" />
+<field name="to_aya_id" ref="pedagogie.aya_34_9" />
+ <field name="name">الثمن 6</field>
+<field name="num" >342</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_343_504f23b4">
+<field name="soura_id" ref="pedagogie.soura_34" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_34_10" />
+<field name="to_aya_id" ref="pedagogie.aya_34_17" />
+ <field name="name">الثمن 7</field>
+<field name="num" >343</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_344_59bb0d9a">
+<field name="soura_id" ref="pedagogie.soura_34" />
+<field name="hizb_id" ref="op_hizb_43_15c5ccbe" />
+<field name="from_aya_id" ref="pedagogie.aya_34_18" />
+<field name="to_aya_id" ref="pedagogie.aya_34_23" />
+ <field name="name">الثمن 8</field>
+<field name="num" >344</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_345_6e925e5c">
+<field name="soura_id" ref="pedagogie.soura_34" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_34_24" />
+<field name="to_aya_id" ref="pedagogie.aya_34_36" />
+ <field name="name">الثمن 1</field>
+<field name="num" >345</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_346_2fab0036">
+<field name="soura_id" ref="pedagogie.soura_34" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_34_37" />
+<field name="to_aya_id" ref="pedagogie.aya_34_45" />
+ <field name="name">الثمن 2</field>
+<field name="num" >346</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_347_e0f669bd">
+<field name="soura_id" ref="pedagogie.soura_34" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_34_46" />
+<field name="to_aya_id" ref="pedagogie.aya_35_7" />
+ <field name="name">الثمن 3</field>
+<field name="num" >347</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_348_1a504eff">
+<field name="soura_id" ref="pedagogie.soura_35" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_35_8" />
+<field name="to_aya_id" ref="pedagogie.aya_35_14" />
+ <field name="name">الثمن 4</field>
+<field name="num" >348</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_349_d66e2e0c">
+<field name="soura_id" ref="pedagogie.soura_35" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_35_15" />
+<field name="to_aya_id" ref="pedagogie.aya_35_30" />
+ <field name="name">الثمن 5</field>
+<field name="num" >349</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_350_9bf2f67f">
+<field name="soura_id" ref="pedagogie.soura_35" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_35_31" />
+<field name="to_aya_id" ref="pedagogie.aya_35_40" />
+ <field name="name">الثمن 6</field>
+<field name="num" >350</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_351_998875af">
+<field name="soura_id" ref="pedagogie.soura_35" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_35_41" />
+<field name="to_aya_id" ref="pedagogie.aya_35_45" />
+ <field name="name">الثمن 7</field>
+<field name="num" >351</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_352_677b7392">
+<field name="soura_id" ref="pedagogie.soura_36" />
+<field name="hizb_id" ref="op_hizb_44_4aca06d4" />
+<field name="from_aya_id" ref="pedagogie.aya_36_0" />
+<field name="to_aya_id" ref="pedagogie.aya_36_27" />
+ <field name="name">الثمن 8</field>
+<field name="num" >352</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_353_0d84fa6c">
+<field name="soura_id" ref="pedagogie.soura_36" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_36_28" />
+<field name="to_aya_id" ref="pedagogie.aya_36_45" />
+ <field name="name">الثمن 1</field>
+<field name="num" >353</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_354_e32d3ab5">
+<field name="soura_id" ref="pedagogie.soura_36" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_36_46" />
+<field name="to_aya_id" ref="pedagogie.aya_36_59" />
+ <field name="name">الثمن 2</field>
+<field name="num" >354</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_355_ce2d012e">
+<field name="soura_id" ref="pedagogie.soura_36" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_36_60" />
+<field name="to_aya_id" ref="pedagogie.aya_36_79" />
+ <field name="name">الثمن 3</field>
+<field name="num" >355</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_356_233c2928">
+<field name="soura_id" ref="pedagogie.soura_36" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_36_80" />
+<field name="to_aya_id" ref="pedagogie.aya_37_21" />
+ <field name="name">الثمن 4</field>
+<field name="num" >356</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_357_db0db91f">
+<field name="soura_id" ref="pedagogie.soura_37" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_37_22" />
+<field name="to_aya_id" ref="pedagogie.aya_37_50" />
+ <field name="name">الثمن 5</field>
+<field name="num" >357</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_358_04a7bc2f">
+<field name="soura_id" ref="pedagogie.soura_37" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_37_51" />
+<field name="to_aya_id" ref="pedagogie.aya_37_82" />
+ <field name="name">الثمن 6</field>
+<field name="num" >358</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_359_70a9ccdd">
+<field name="soura_id" ref="pedagogie.soura_37" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_37_83" />
+<field name="to_aya_id" ref="pedagogie.aya_37_113" />
+ <field name="name">الثمن 7</field>
+<field name="num" >359</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_360_9e4dee15">
+<field name="soura_id" ref="pedagogie.soura_37" />
+<field name="hizb_id" ref="op_hizb_45_3779d280" />
+<field name="from_aya_id" ref="pedagogie.aya_37_114" />
+<field name="to_aya_id" ref="pedagogie.aya_37_144" />
+ <field name="name">الثمن 8</field>
+<field name="num" >360</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_361_369cfaf6">
+<field name="soura_id" ref="pedagogie.soura_37" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_37_145" />
+<field name="to_aya_id" ref="pedagogie.aya_37_182" />
+ <field name="name">الثمن 1</field>
+<field name="num" >361</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_362_cdc73a7c">
+<field name="soura_id" ref="pedagogie.soura_38" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_38_0" />
+<field name="to_aya_id" ref="pedagogie.aya_38_20" />
+ <field name="name">الثمن 2</field>
+<field name="num" >362</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_363_a0fb3758">
+<field name="soura_id" ref="pedagogie.soura_38" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_38_21" />
+<field name="to_aya_id" ref="pedagogie.aya_38_29" />
+ <field name="name">الثمن 3</field>
+<field name="num" >363</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_364_2be5193b">
+<field name="soura_id" ref="pedagogie.soura_38" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_38_30" />
+<field name="to_aya_id" ref="pedagogie.aya_38_51" />
+ <field name="name">الثمن 4</field>
+<field name="num" >364</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_365_d62b00e7">
+<field name="soura_id" ref="pedagogie.soura_38" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_38_52" />
+<field name="to_aya_id" ref="pedagogie.aya_38_83" />
+ <field name="name">الثمن 5</field>
+<field name="num" >365</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_366_fca4dc64">
+<field name="soura_id" ref="pedagogie.soura_38" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_38_84" />
+<field name="to_aya_id" ref="pedagogie.aya_39_7" />
+ <field name="name">الثمن 6</field>
+<field name="num" >366</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_367_4398231d">
+<field name="soura_id" ref="pedagogie.soura_39" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_39_8" />
+<field name="to_aya_id" ref="pedagogie.aya_39_20" />
+ <field name="name">الثمن 7</field>
+<field name="num" >367</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_368_2c099bdb">
+<field name="soura_id" ref="pedagogie.soura_39" />
+<field name="hizb_id" ref="op_hizb_46_d981ebe2" />
+<field name="from_aya_id" ref="pedagogie.aya_39_21" />
+<field name="to_aya_id" ref="pedagogie.aya_39_31" />
+ <field name="name">الثمن 8</field>
+<field name="num" >368</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_369_fe2c06cb">
+<field name="soura_id" ref="pedagogie.soura_39" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_39_32" />
+<field name="to_aya_id" ref="pedagogie.aya_39_41" />
+ <field name="name">الثمن 1</field>
+<field name="num" >369</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_370_0e4f1cad">
+<field name="soura_id" ref="pedagogie.soura_39" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_39_42" />
+<field name="to_aya_id" ref="pedagogie.aya_39_53" />
+ <field name="name">الثمن 2</field>
+<field name="num" >370</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_371_99f45816">
+<field name="soura_id" ref="pedagogie.soura_39" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_39_54" />
+<field name="to_aya_id" ref="pedagogie.aya_39_66" />
+ <field name="name">الثمن 3</field>
+<field name="num" >371</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_372_e0175800">
+<field name="soura_id" ref="pedagogie.soura_39" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_39_67" />
+<field name="to_aya_id" ref="pedagogie.aya_39_75" />
+ <field name="name">الثمن 4</field>
+<field name="num" >372</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_373_712d66e7">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_40_0" />
+<field name="to_aya_id" ref="pedagogie.aya_40_10" />
+ <field name="name">الثمن 5</field>
+<field name="num" >373</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_374_a82106a8">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_40_11" />
+<field name="to_aya_id" ref="pedagogie.aya_40_20" />
+ <field name="name">الثمن 6</field>
+<field name="num" >374</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_375_76d77235">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_40_21" />
+<field name="to_aya_id" ref="pedagogie.aya_40_29" />
+ <field name="name">الثمن 7</field>
+<field name="num" >375</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_376_103c0ad3">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_47_d846b33a" />
+<field name="from_aya_id" ref="pedagogie.aya_40_30" />
+<field name="to_aya_id" ref="pedagogie.aya_40_40" />
+ <field name="name">الثمن 8</field>
+<field name="num" >376</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_377_dd6c46b2">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_40_41" />
+<field name="to_aya_id" ref="pedagogie.aya_40_52" />
+ <field name="name">الثمن 1</field>
+<field name="num" >377</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_378_0f7fafbe">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_40_53" />
+<field name="to_aya_id" ref="pedagogie.aya_40_65" />
+ <field name="name">الثمن 2</field>
+<field name="num" >378</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_379_016c6931">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_40_66" />
+<field name="to_aya_id" ref="pedagogie.aya_40_78" />
+ <field name="name">الثمن 3</field>
+<field name="num" >379</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_380_4e1a9102">
+<field name="soura_id" ref="pedagogie.soura_40" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_40_79" />
+<field name="to_aya_id" ref="pedagogie.aya_41_8" />
+ <field name="name">الثمن 4</field>
+<field name="num" >380</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_381_08b19a30">
+<field name="soura_id" ref="pedagogie.soura_41" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_41_9" />
+<field name="to_aya_id" ref="pedagogie.aya_41_16" />
+ <field name="name">الثمن 5</field>
+<field name="num" >381</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_382_1be6d936">
+<field name="soura_id" ref="pedagogie.soura_41" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_41_17" />
+<field name="to_aya_id" ref="pedagogie.aya_41_24" />
+ <field name="name">الثمن 6</field>
+<field name="num" >382</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_383_e7adbec6">
+<field name="soura_id" ref="pedagogie.soura_41" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_41_25" />
+<field name="to_aya_id" ref="pedagogie.aya_41_37" />
+ <field name="name">الثمن 7</field>
+<field name="num" >383</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_384_d96e4970">
+<field name="soura_id" ref="pedagogie.soura_41" />
+<field name="hizb_id" ref="op_hizb_48_710524bc" />
+<field name="from_aya_id" ref="pedagogie.aya_41_38" />
+<field name="to_aya_id" ref="pedagogie.aya_41_46" />
+ <field name="name">الثمن 8</field>
+<field name="num" >384</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_385_e796b8ae">
+<field name="soura_id" ref="pedagogie.soura_41" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_41_47" />
+<field name="to_aya_id" ref="pedagogie.aya_42_5" />
+ <field name="name">الثمن 1</field>
+<field name="num" >385</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_386_542ef39d">
+<field name="soura_id" ref="pedagogie.soura_42" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_42_6" />
+<field name="to_aya_id" ref="pedagogie.aya_42_12" />
+ <field name="name">الثمن 2</field>
+<field name="num" >386</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_387_0b5dfdd2">
+<field name="soura_id" ref="pedagogie.soura_42" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_42_13" />
+<field name="to_aya_id" ref="pedagogie.aya_42_19" />
+ <field name="name">الثمن 3</field>
+<field name="num" >387</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_388_e73e361c">
+<field name="soura_id" ref="pedagogie.soura_42" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_42_20" />
+<field name="to_aya_id" ref="pedagogie.aya_42_26" />
+ <field name="name">الثمن 4</field>
+<field name="num" >388</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_389_0c3fdbad">
+<field name="soura_id" ref="pedagogie.soura_42" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_42_27" />
+<field name="to_aya_id" ref="pedagogie.aya_42_41" />
+ <field name="name">الثمن 5</field>
+<field name="num" >389</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_390_489898ff">
+<field name="soura_id" ref="pedagogie.soura_42" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_42_42" />
+<field name="to_aya_id" ref="pedagogie.aya_42_50" />
+ <field name="name">الثمن 6</field>
+<field name="num" >390</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_391_8cc7732e">
+<field name="soura_id" ref="pedagogie.soura_42" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_42_51" />
+<field name="to_aya_id" ref="pedagogie.aya_43_10" />
+ <field name="name">الثمن 7</field>
+<field name="num" >391</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_392_de023fda">
+<field name="soura_id" ref="pedagogie.soura_43" />
+<field name="hizb_id" ref="op_hizb_49_9afc8349" />
+<field name="from_aya_id" ref="pedagogie.aya_43_11" />
+<field name="to_aya_id" ref="pedagogie.aya_43_23" />
+ <field name="name">الثمن 8</field>
+<field name="num" >392</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_393_b54a07ba">
+<field name="soura_id" ref="pedagogie.soura_43" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_43_24" />
+<field name="to_aya_id" ref="pedagogie.aya_43_42" />
+ <field name="name">الثمن 1</field>
+<field name="num" >393</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_394_65425732">
+<field name="soura_id" ref="pedagogie.soura_43" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_43_43" />
+<field name="to_aya_id" ref="pedagogie.aya_43_62" />
+ <field name="name">الثمن 2</field>
+<field name="num" >394</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_395_da213898">
+<field name="soura_id" ref="pedagogie.soura_43" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_43_63" />
+<field name="to_aya_id" ref="pedagogie.aya_43_84" />
+ <field name="name">الثمن 3</field>
+<field name="num" >395</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_396_a8355005">
+<field name="soura_id" ref="pedagogie.soura_43" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_43_85" />
+<field name="to_aya_id" ref="pedagogie.aya_44_24" />
+ <field name="name">الثمن 4</field>
+<field name="num" >396</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_397_eac3b1fb">
+<field name="soura_id" ref="pedagogie.soura_44" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_44_25" />
+<field name="to_aya_id" ref="pedagogie.aya_44_59" />
+ <field name="name">الثمن 5</field>
+<field name="num" >397</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_398_370a53ee">
+<field name="soura_id" ref="pedagogie.soura_45" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_45_0" />
+<field name="to_aya_id" ref="pedagogie.aya_45_13" />
+ <field name="name">الثمن 6</field>
+<field name="num" >398</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_399_7429d69a">
+<field name="soura_id" ref="pedagogie.soura_45" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_45_14" />
+<field name="to_aya_id" ref="pedagogie.aya_45_24" />
+ <field name="name">الثمن 7</field>
+<field name="num" >399</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_400_b474d22b">
+<field name="soura_id" ref="pedagogie.soura_45" />
+<field name="hizb_id" ref="op_hizb_50_654db143" />
+<field name="from_aya_id" ref="pedagogie.aya_45_25" />
+<field name="to_aya_id" ref="pedagogie.aya_45_37" />
+ <field name="name">الثمن 8</field>
+<field name="num" >400</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_401_48e501c0">
+<field name="soura_id" ref="pedagogie.soura_46" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_46_0" />
+<field name="to_aya_id" ref="pedagogie.aya_46_14" />
+ <field name="name">الثمن 1</field>
+<field name="num" >401</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_402_29d0f918">
+<field name="soura_id" ref="pedagogie.soura_46" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_46_15" />
+<field name="to_aya_id" ref="pedagogie.aya_46_20" />
+ <field name="name">الثمن 2</field>
+<field name="num" >402</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_403_1afa41f1">
+<field name="soura_id" ref="pedagogie.soura_46" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_46_21" />
+<field name="to_aya_id" ref="pedagogie.aya_46_32" />
+ <field name="name">الثمن 3</field>
+<field name="num" >403</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_404_e08a94bd">
+<field name="soura_id" ref="pedagogie.soura_46" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_46_33" />
+<field name="to_aya_id" ref="pedagogie.aya_47_9" />
+ <field name="name">الثمن 4</field>
+<field name="num" >404</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_405_26a1bd37">
+<field name="soura_id" ref="pedagogie.soura_47" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_47_10" />
+<field name="to_aya_id" ref="pedagogie.aya_47_19" />
+ <field name="name">الثمن 5</field>
+<field name="num" >405</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_406_e2c09b65">
+<field name="soura_id" ref="pedagogie.soura_47" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_47_20" />
+<field name="to_aya_id" ref="pedagogie.aya_47_32" />
+ <field name="name">الثمن 6</field>
+<field name="num" >406</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_407_1698ccb8">
+<field name="soura_id" ref="pedagogie.soura_47" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_47_33" />
+<field name="to_aya_id" ref="pedagogie.aya_48_7" />
+ <field name="name">الثمن 7</field>
+<field name="num" >407</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_408_d1e949e9">
+<field name="soura_id" ref="pedagogie.soura_48" />
+<field name="hizb_id" ref="op_hizb_51_9a779d6a" />
+<field name="from_aya_id" ref="pedagogie.aya_48_8" />
+<field name="to_aya_id" ref="pedagogie.aya_48_17" />
+ <field name="name">الثمن 8</field>
+<field name="num" >408</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_409_b1e35549">
+<field name="soura_id" ref="pedagogie.soura_48" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_48_18" />
+<field name="to_aya_id" ref="pedagogie.aya_48_26" />
+ <field name="name">الثمن 1</field>
+<field name="num" >409</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_410_e75ffb0d">
+<field name="soura_id" ref="pedagogie.soura_48" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_48_27" />
+<field name="to_aya_id" ref="pedagogie.aya_48_29" />
+ <field name="name">الثمن 2</field>
+<field name="num" >410</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_411_8d4a774a">
+<field name="soura_id" ref="pedagogie.soura_49" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_49_0" />
+<field name="to_aya_id" ref="pedagogie.aya_49_8" />
+ <field name="name">الثمن 3</field>
+<field name="num" >411</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_412_faed584b">
+<field name="soura_id" ref="pedagogie.soura_49" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_49_9" />
+<field name="to_aya_id" ref="pedagogie.aya_49_13" />
+ <field name="name">الثمن 4</field>
+<field name="num" >412</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_413_e7aea0e4">
+<field name="soura_id" ref="pedagogie.soura_49" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_49_14" />
+<field name="to_aya_id" ref="pedagogie.aya_50_8" />
+ <field name="name">الثمن 5</field>
+<field name="num" >413</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_414_0f0d19c8">
+<field name="soura_id" ref="pedagogie.soura_50" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_50_9" />
+<field name="to_aya_id" ref="pedagogie.aya_50_26" />
+ <field name="name">الثمن 6</field>
+<field name="num" >414</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_415_1f733e82">
+<field name="soura_id" ref="pedagogie.soura_50" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_50_27" />
+<field name="to_aya_id" ref="pedagogie.aya_50_45" />
+ <field name="name">الثمن 7</field>
+<field name="num" >415</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_416_b40ae4c0">
+<field name="soura_id" ref="pedagogie.soura_51" />
+<field name="hizb_id" ref="op_hizb_52_3e091964" />
+<field name="from_aya_id" ref="pedagogie.aya_51_0" />
+<field name="to_aya_id" ref="pedagogie.aya_51_30" />
+ <field name="name">الثمن 8</field>
+<field name="num" >416</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_417_fba1a846">
+<field name="soura_id" ref="pedagogie.soura_51" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_51_31" />
+<field name="to_aya_id" ref="pedagogie.aya_51_55" />
+ <field name="name">الثمن 1</field>
+<field name="num" >417</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_418_61547230">
+<field name="soura_id" ref="pedagogie.soura_51" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_51_56" />
+<field name="to_aya_id" ref="pedagogie.aya_52_23" />
+ <field name="name">الثمن 2</field>
+<field name="num" >418</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_419_4c06d62b">
+<field name="soura_id" ref="pedagogie.soura_52" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_52_24" />
+<field name="to_aya_id" ref="pedagogie.aya_52_43" />
+ <field name="name">الثمن 3</field>
+<field name="num" >419</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_420_d59b0ec7">
+<field name="soura_id" ref="pedagogie.soura_52" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_52_44" />
+<field name="to_aya_id" ref="pedagogie.aya_53_25" />
+ <field name="name">الثمن 4</field>
+<field name="num" >420</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_421_f6afcfeb">
+<field name="soura_id" ref="pedagogie.soura_53" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_53_26" />
+<field name="to_aya_id" ref="pedagogie.aya_53_46" />
+ <field name="name">الثمن 5</field>
+<field name="num" >421</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_422_3bf29504">
+<field name="soura_id" ref="pedagogie.soura_53" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_53_47" />
+<field name="to_aya_id" ref="pedagogie.aya_54_9" />
+ <field name="name">الثمن 6</field>
+<field name="num" >422</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_423_0ae9dba3">
+<field name="soura_id" ref="pedagogie.soura_54" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_54_10" />
+<field name="to_aya_id" ref="pedagogie.aya_54_36" />
+ <field name="name">الثمن 7</field>
+<field name="num" >423</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_424_c844f05a">
+<field name="soura_id" ref="pedagogie.soura_54" />
+<field name="hizb_id" ref="op_hizb_53_f2168745" />
+<field name="from_aya_id" ref="pedagogie.aya_54_37" />
+<field name="to_aya_id" ref="pedagogie.aya_54_55" />
+ <field name="name">الثمن 8</field>
+<field name="num" >424</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_425_d8fdced5">
+<field name="soura_id" ref="pedagogie.soura_55" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_55_0" />
+<field name="to_aya_id" ref="pedagogie.aya_55_40" />
+ <field name="name">الثمن 1</field>
+<field name="num" >425</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_426_1b944a28">
+<field name="soura_id" ref="pedagogie.soura_55" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_55_41" />
+<field name="to_aya_id" ref="pedagogie.aya_55_78" />
+ <field name="name">الثمن 2</field>
+<field name="num" >426</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_427_e5ee6614">
+<field name="soura_id" ref="pedagogie.soura_56" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_56_0" />
+<field name="to_aya_id" ref="pedagogie.aya_56_48" />
+ <field name="name">الثمن 3</field>
+<field name="num" >427</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_428_d14ca123">
+<field name="soura_id" ref="pedagogie.soura_56" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_56_49" />
+<field name="to_aya_id" ref="pedagogie.aya_56_74" />
+ <field name="name">الثمن 4</field>
+<field name="num" >428</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_429_6a660342">
+<field name="soura_id" ref="pedagogie.soura_56" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_56_75" />
+<field name="to_aya_id" ref="pedagogie.aya_57_6" />
+ <field name="name">الثمن 5</field>
+<field name="num" >429</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_430_a7971dc0">
+<field name="soura_id" ref="pedagogie.soura_57" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_57_7" />
+<field name="to_aya_id" ref="pedagogie.aya_57_15" />
+ <field name="name">الثمن 6</field>
+<field name="num" >430</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_431_29e059be">
+<field name="soura_id" ref="pedagogie.soura_57" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_57_16" />
+<field name="to_aya_id" ref="pedagogie.aya_57_21" />
+ <field name="name">الثمن 7</field>
+<field name="num" >431</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_432_23f4dd52">
+<field name="soura_id" ref="pedagogie.soura_57" />
+<field name="hizb_id" ref="op_hizb_54_cfc1dc09" />
+<field name="from_aya_id" ref="pedagogie.aya_57_22" />
+<field name="to_aya_id" ref="pedagogie.aya_57_29" />
+ <field name="name">الثمن 8</field>
+<field name="num" >432</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_433_afdf2830">
+<field name="soura_id" ref="pedagogie.soura_58" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_58_0" />
+<field name="to_aya_id" ref="pedagogie.aya_58_7" />
+ <field name="name">الثمن 1</field>
+<field name="num" >433</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_434_872568f1">
+<field name="soura_id" ref="pedagogie.soura_58" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_58_8" />
+<field name="to_aya_id" ref="pedagogie.aya_58_13" />
+ <field name="name">الثمن 2</field>
+<field name="num" >434</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_435_d1a93a08">
+<field name="soura_id" ref="pedagogie.soura_58" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_58_14" />
+<field name="to_aya_id" ref="pedagogie.aya_59_21" />
+ <field name="name">الثمن 3</field>
+<field name="num" >435</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_436_8b49cb85">
+<field name="soura_id" ref="pedagogie.soura_59" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_59_22" />
+<field name="to_aya_id" ref="pedagogie.aya_59_10" />
+ <field name="name">الثمن 4</field>
+<field name="num" >436</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_437_ac12828d">
+<field name="soura_id" ref="pedagogie.soura_59" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_59_11" />
+<field name="to_aya_id" ref="pedagogie.aya_59_24" />
+ <field name="name">الثمن 5</field>
+<field name="num" >437</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_438_4649f019">
+<field name="soura_id" ref="pedagogie.soura_60" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_60_0" />
+<field name="to_aya_id" ref="pedagogie.aya_60_6" />
+ <field name="name">الثمن 6</field>
+<field name="num" >438</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_439_c66b4747">
+<field name="soura_id" ref="pedagogie.soura_60" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_60_7" />
+<field name="to_aya_id" ref="pedagogie.aya_60_13" />
+ <field name="name">الثمن 7</field>
+<field name="num" >439</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_440_3be923d2">
+<field name="soura_id" ref="pedagogie.soura_61" />
+<field name="hizb_id" ref="op_hizb_55_21d5f7dc" />
+<field name="from_aya_id" ref="pedagogie.aya_61_0" />
+<field name="to_aya_id" ref="pedagogie.aya_61_14" />
+ <field name="name">الثمن 8</field>
+<field name="num" >440</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_441_5d2aa351">
+<field name="soura_id" ref="pedagogie.soura_62" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_62_0" />
+<field name="to_aya_id" ref="pedagogie.aya_62_11" />
+ <field name="name">الثمن 1</field>
+<field name="num" >441</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_442_2d6934c9">
+<field name="soura_id" ref="pedagogie.soura_63" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_63_0" />
+<field name="to_aya_id" ref="pedagogie.aya_63_8" />
+ <field name="name">الثمن 2</field>
+<field name="num" >442</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_443_f6f24658">
+<field name="soura_id" ref="pedagogie.soura_63" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_63_9" />
+<field name="to_aya_id" ref="pedagogie.aya_64_8" />
+ <field name="name">الثمن 3</field>
+<field name="num" >443</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_444_94a87c65">
+<field name="soura_id" ref="pedagogie.soura_64" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_64_9" />
+<field name="to_aya_id" ref="pedagogie.aya_64_18" />
+ <field name="name">الثمن 4</field>
+<field name="num" >444</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_445_b55d1cf7">
+<field name="soura_id" ref="pedagogie.soura_65" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_65_0" />
+<field name="to_aya_id" ref="pedagogie.aya_65_61" />
+ <field name="name">الثمن 5</field>
+<field name="num" >445</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_446_1ae3b055">
+<field name="soura_id" ref="pedagogie.soura_65" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_65_62" />
+<field name="to_aya_id" ref="pedagogie.aya_65_12" />
+ <field name="name">الثمن 6</field>
+<field name="num" >446</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_447_d0750bbd">
+<field name="soura_id" ref="pedagogie.soura_66" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_66_0" />
+<field name="to_aya_id" ref="pedagogie.aya_66_7" />
+ <field name="name">الثمن 7</field>
+<field name="num" >447</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_448_d79a3aea">
+<field name="soura_id" ref="pedagogie.soura_66" />
+<field name="hizb_id" ref="op_hizb_56_73b5cf01" />
+<field name="from_aya_id" ref="pedagogie.aya_66_8" />
+<field name="to_aya_id" ref="pedagogie.aya_66_12" />
+ <field name="name">الثمن 8</field>
+<field name="num" >448</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_449_b7056a04">
+<field name="soura_id" ref="pedagogie.soura_67" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_67_0" />
+<field name="to_aya_id" ref="pedagogie.aya_67_18" />
+ <field name="name">الثمن 1</field>
+<field name="num" >449</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_450_3a223941">
+<field name="soura_id" ref="pedagogie.soura_67" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_67_19" />
+<field name="to_aya_id" ref="pedagogie.aya_68_18" />
+ <field name="name">الثمن 2</field>
+<field name="num" >450</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_451_b39737a6">
+<field name="soura_id" ref="pedagogie.soura_68" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_68_19" />
+<field name="to_aya_id" ref="pedagogie.aya_68_47" />
+ <field name="name">الثمن 3</field>
+<field name="num" >451</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_452_b5e7a583">
+<field name="soura_id" ref="pedagogie.soura_68" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_68_48" />
+<field name="to_aya_id" ref="pedagogie.aya_69_17" />
+ <field name="name">الثمن 4</field>
+<field name="num" >452</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_453_6452b80f">
+<field name="soura_id" ref="pedagogie.soura_69" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_69_18" />
+<field name="to_aya_id" ref="pedagogie.aya_69_52" />
+ <field name="name">الثمن 5</field>
+<field name="num" >453</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_454_0713bbfc">
+<field name="soura_id" ref="pedagogie.soura_70" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_70_0" />
+<field name="to_aya_id" ref="pedagogie.aya_70_39" />
+ <field name="name">الثمن 6</field>
+<field name="num" >454</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_455_53cf4818">
+<field name="soura_id" ref="pedagogie.soura_70" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_70_40" />
+<field name="to_aya_id" ref="pedagogie.aya_71_14" />
+ <field name="name">الثمن 7</field>
+<field name="num" >455</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_456_dfd62fec">
+<field name="soura_id" ref="pedagogie.soura_71" />
+<field name="hizb_id" ref="op_hizb_57_10d06104" />
+<field name="from_aya_id" ref="pedagogie.aya_71_15" />
+<field name="to_aya_id" ref="pedagogie.aya_71_28" />
+ <field name="name">الثمن 8</field>
+<field name="num" >456</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_457_33711e61">
+<field name="soura_id" ref="pedagogie.soura_72" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_72_0" />
+<field name="to_aya_id" ref="pedagogie.aya_72_231" />
+ <field name="name">الثمن 1</field>
+<field name="num" >457</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_458_690b10c4">
+<field name="soura_id" ref="pedagogie.soura_72" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_72_232" />
+<field name="to_aya_id" ref="pedagogie.aya_73_19" />
+ <field name="name">الثمن 2</field>
+<field name="num" >458</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_459_ef714233">
+<field name="soura_id" ref="pedagogie.soura_73" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_73_20" />
+<field name="to_aya_id" ref="pedagogie.aya_74_30" />
+ <field name="name">الثمن 3</field>
+<field name="num" >459</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_460_740d0728">
+<field name="soura_id" ref="pedagogie.soura_74" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_74_31" />
+<field name="to_aya_id" ref="pedagogie.aya_74_56" />
+ <field name="name">الثمن 4</field>
+<field name="num" >460</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_461_5358ddee">
+<field name="soura_id" ref="pedagogie.soura_75" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_75_0" />
+<field name="to_aya_id" ref="pedagogie.aya_75_40" />
+ <field name="name">الثمن 5</field>
+<field name="num" >461</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_462_dd3216cb">
+<field name="soura_id" ref="pedagogie.soura_76" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_76_0" />
+<field name="to_aya_id" ref="pedagogie.aya_76_18" />
+ <field name="name">الثمن 6</field>
+<field name="num" >462</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_463_c6d98a97">
+<field name="soura_id" ref="pedagogie.soura_76" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_76_19" />
+<field name="to_aya_id" ref="pedagogie.aya_77_15" />
+ <field name="name">الثمن 7</field>
+<field name="num" >463</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_464_23c63ad4">
+<field name="soura_id" ref="pedagogie.soura_77" />
+<field name="hizb_id" ref="op_hizb_58_ba23bc94" />
+<field name="from_aya_id" ref="pedagogie.aya_77_16" />
+<field name="to_aya_id" ref="pedagogie.aya_77_50" />
+ <field name="name">الثمن 8</field>
+<field name="num" >464</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_465_7806c5e0">
+<field name="soura_id" ref="pedagogie.soura_78" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_78_0" />
+<field name="to_aya_id" ref="pedagogie.aya_78_40" />
+ <field name="name">الثمن 1</field>
+<field name="num" >465</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_466_69417868">
+<field name="soura_id" ref="pedagogie.soura_79" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_79_0" />
+<field name="to_aya_id" ref="pedagogie.aya_79_41" />
+ <field name="name">الثمن 2</field>
+<field name="num" >466</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_467_0f9e3150">
+<field name="soura_id" ref="pedagogie.soura_79" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_79_42" />
+<field name="to_aya_id" ref="pedagogie.aya_80_42" />
+ <field name="name">الثمن 3</field>
+<field name="num" >467</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_468_f00dfb4f">
+<field name="soura_id" ref="pedagogie.soura_81" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_81_0" />
+<field name="to_aya_id" ref="pedagogie.aya_81_29" />
+ <field name="name">الثمن 4</field>
+<field name="num" >468</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_469_38629a2c">
+<field name="soura_id" ref="pedagogie.soura_82" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_82_0" />
+<field name="to_aya_id" ref="pedagogie.aya_83_13" />
+ <field name="name">الثمن 5</field>
+<field name="num" >469</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_470_d3fed8c9">
+<field name="soura_id" ref="pedagogie.soura_83" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_83_14" />
+<field name="to_aya_id" ref="pedagogie.aya_84_15" />
+ <field name="name">الثمن 6</field>
+<field name="num" >470</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_471_246b217e">
+<field name="soura_id" ref="pedagogie.soura_84" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_84_16" />
+<field name="to_aya_id" ref="pedagogie.aya_85_11" />
+ <field name="name">الثمن 7</field>
+<field name="num" >471</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_472_443176e5">
+<field name="soura_id" ref="pedagogie.soura_85" />
+<field name="hizb_id" ref="op_hizb_59_956680a0" />
+<field name="from_aya_id" ref="pedagogie.aya_85_12" />
+<field name="to_aya_id" ref="pedagogie.aya_86_17" />
+ <field name="name">الثمن 8</field>
+<field name="num" >472</field>
+<field name="num_in_hizb" >8</field>
+</record>
+<record   model="op.thomen" id="op_thomen_473_0a77f7c5">
+<field name="soura_id" ref="pedagogie.soura_87" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_87_0" />
+<field name="to_aya_id" ref="pedagogie.aya_88_16" />
+ <field name="name">الثمن 1</field>
+<field name="num" >473</field>
+<field name="num_in_hizb" >1</field>
+</record>
+<record   model="op.thomen" id="op_thomen_474_ffbe46d2">
+<field name="soura_id" ref="pedagogie.soura_88" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_88_17" />
+<field name="to_aya_id" ref="pedagogie.aya_89_30" />
+ <field name="name">الثمن 2</field>
+<field name="num" >474</field>
+<field name="num_in_hizb" >2</field>
+</record>
+<record   model="op.thomen" id="op_thomen_475_b16615d7">
+<field name="soura_id" ref="pedagogie.soura_90" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_90_0" />
+<field name="to_aya_id" ref="pedagogie.aya_91_15" />
+ <field name="name">الثمن 3</field>
+<field name="num" >475</field>
+<field name="num_in_hizb" >3</field>
+</record>
+<record   model="op.thomen" id="op_thomen_476_2f342e99">
+<field name="soura_id" ref="pedagogie.soura_92" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_92_0" />
+<field name="to_aya_id" ref="pedagogie.aya_93_11" />
+ <field name="name">الثمن 4</field>
+<field name="num" >476</field>
+<field name="num_in_hizb" >4</field>
+</record>
+<record   model="op.thomen" id="op_thomen_477_f1bad584">
+<field name="soura_id" ref="pedagogie.soura_94" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_94_0" />
+<field name="to_aya_id" ref="pedagogie.aya_97_5" />
+ <field name="name">الثمن 5</field>
+<field name="num" >477</field>
+<field name="num_in_hizb" >5</field>
+</record>
+<record   model="op.thomen" id="op_thomen_478_ee630399">
+<field name="soura_id" ref="pedagogie.soura_98" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_98_0" />
+<field name="to_aya_id" ref="pedagogie.aya_100_8" />
+ <field name="name">الثمن 6</field>
+<field name="num" >478</field>
+<field name="num_in_hizb" >6</field>
+</record>
+<record   model="op.thomen" id="op_thomen_479_3cd17629">
+<field name="soura_id" ref="pedagogie.soura_100" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_100_9" />
+<field name="to_aya_id" ref="pedagogie.aya_105_5" />
+ <field name="name">الثمن 7</field>
+<field name="num" >479</field>
+<field name="num_in_hizb" >7</field>
+</record>
+<record   model="op.thomen" id="op_thomen_480_08ac6a4f">
+<field name="soura_id" ref="pedagogie.soura_106" />
+<field name="hizb_id" ref="op_hizb_60_426193bb" />
+<field name="from_aya_id" ref="pedagogie.aya_106_0" />
+<field name="to_aya_id" ref="pedagogie.aya_114_6" />
+ <field name="name">الثمن 8</field>
+<field name="num" >480</field>
+<field name="num_in_hizb" >8</field>
+</record>
+
+</data></odoo>

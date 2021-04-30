@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<odoo><data noupdate="1"><record id="soura_1"  model="op.soura">
+ <field name="name">سورة الفاتحة</field>
+<field name="num" >1</field>
+</record>
+<record id="soura_2"  model="op.soura">
+ <field name="name">سورة البقرة </field>
+<field name="num" >2</field>
+</record>
+<record id="soura_3"  model="op.soura">
+ <field name="name">سورة آل عمران</field>
+<field name="num" >3</field>
+</record>
+<record id="soura_4"  model="op.soura">
+ <field name="name">سورة النساء</field>
+<field name="num" >4</field>
+</record>
+<record id="soura_5"  model="op.soura">
+ <field name="name">سورة المائدة </field>
+<field name="num" >5</field>
+</record>
+<record id="soura_6"  model="op.soura">
+ <field name="name">سورة الأنعام</field>
+<field name="num" >6</field>
+</record>
+<record id="soura_7"  model="op.soura">
+ <field name="name">سورة الأعراف</field>
+<field name="num" >7</field>
+</record>
+<record id="soura_8"  model="op.soura">
+ <field name="name">سورة الأنفال</field>
+<field name="num" >8</field>
+</record>
+<record id="soura_9"  model="op.soura">
+ <field name="name">سورة التوبة </field>
+<field name="num" >9</field>
+</record>
+<record id="soura_10"  model="op.soura">
+ <field name="name">سورة يونس</field>
+<field name="num" >10</field>
+</record>
+<record id="soura_11"  model="op.soura">
+ <field name="name">سورة هود</field>
+<field name="num" >11</field>
+</record>
+<record id="soura_12"  model="op.soura">
+ <field name="name">سورة يوسف</field>
+<field name="num" >12</field>
+</record>
+<record id="soura_13"  model="op.soura">
+ <field name="name">سورة الرعد</field>
+<field name="num" >13</field>
+</record>
+<record id="soura_14"  model="op.soura">
+ <field name="name">سورة إبراهيم </field>
+<field name="num" >14</field>
+</record>
+<record id="soura_15"  model="op.soura">
+ <field name="name">سورة الحجر</field>
+<field name="num" >15</field>
+</record>
+<record id="soura_16"  model="op.soura">
+ <field name="name">سورة النحل</field>
+<field name="num" >16</field>
+</record>
+<record id="soura_17"  model="op.soura">
+ <field name="name">سورة الإسراء</field>
+<field name="num" >17</field>
+</record>
+<record id="soura_18"  model="op.soura">
+ <field name="name">سورة الكهف</field>
+<field name="num" >18</field>
+</record>
+<record id="soura_19"  model="op.soura">
+ <field name="name">سورة مريم </field>
+<field name="num" >19</field>
+</record>
+<record id="soura_20"  model="op.soura">
+ <field name="name">سورة طه</field>
+<field name="num" >20</field>
+</record>
+<record id="soura_21"  model="op.soura">
+ <field name="name">سورة الأنبياء</field>
+<field name="num" >21</field>
+</record>
+<record id="soura_22"  model="op.soura">
+ <field name="name">سورة الحج </field>
+<field name="num" >22</field>
+</record>
+<record id="soura_23"  model="op.soura">
+ <field name="name">سورة المؤمنون </field>
+<field name="num" >23</field>
+</record>
+<record id="soura_24"  model="op.soura">
+ <field name="name">سورة النور</field>
+<field name="num" >24</field>
+</record>
+<record id="soura_25"  model="op.soura">
+ <field name="name">سورة الفرقان</field>
+<field name="num" >25</field>
+</record>
+<record id="soura_26"  model="op.soura">
+ <field name="name">سورة الشعراء</field>
+<field name="num" >26</field>
+</record>
+<record id="soura_27"  model="op.soura">
+ <field name="name">سورة النمل </field>
+<field name="num" >27</field>
+</record>
+<record id="soura_28"  model="op.soura">
+ <field name="name">سورة القصص</field>
+<field name="num" >28</field>
+</record>
+<record id="soura_29"  model="op.soura">
+ <field name="name">سورة العنكبوت</field>
+<field name="num" >29</field>
+</record>
+<record id="soura_30"  model="op.soura">
+ <field name="name">سورة الروم</field>
+<field name="num" >30</field>
+</record>
+<record id="soura_31"  model="op.soura">
+ <field name="name">سورة لقمان </field>
+<field name="num" >31</field>
+</record>
+<record id="soura_32"  model="op.soura">
+ <field name="name">سورة السجدة</field>
+<field name="num" >32</field>
+</record>
+<record id="soura_33"  model="op.soura">
+ <field name="name">سورة الأحزاب</field>
+<field name="num" >33</field>
+</record>
+<record id="soura_34"  model="op.soura">
+ <field name="name">سورة سبأ </field>
+<field name="num" >34</field>
+</record>
+<record id="soura_35"  model="op.soura">
+ <field name="name">سورة فاطر</field>
+<field name="num" >35</field>
+</record>
+<record id="soura_36"  model="op.soura">
+ <field name="name">سورة يس</field>
+<field name="num" >36</field>
+</record>
+<record id="soura_37"  model="op.soura">
+ <field name="name">سورة الصافات</field>
+<field name="num" >37</field>
+</record>
+<record id="soura_38"  model="op.soura">
+ <field name="name">سورة ص</field>
+<field name="num" >38</field>
+</record>
+<record id="soura_39"  model="op.soura">
+ <field name="name">سورة الزمر</field>
+<field name="num" >39</field>
+</record>
+<record id="soura_40"  model="op.soura">
+ <field name="name">سورة غافر</field>
+<field name="num" >40</field>
+</record>
+<record id="soura_41"  model="op.soura">
+ <field name="name">سورة فصلت</field>
+<field name="num" >41</field>
+</record>
+<record id="soura_42"  model="op.soura">
+ <field name="name">سورة الشورى </field>
+<field name="num" >42</field>
+</record>
+<record id="soura_43"  model="op.soura">
+ <field name="name">سورة الزخرف</field>
+<field name="num" >43</field>
+</record>
+<record id="soura_44"  model="op.soura">
+ <field name="name">سورة الدخان</field>
+<field name="num" >44</field>
+</record>
+<record id="soura_45"  model="op.soura">
+ <field name="name">سورة الجاثية</field>
+<field name="num" >45</field>
+</record>
+<record id="soura_46"  model="op.soura">
+ <field name="name">سورة الأحقاف</field>
+<field name="num" >46</field>
+</record>
+<record id="soura_47"  model="op.soura">
+ <field name="name">سورة محمد </field>
+<field name="num" >47</field>
+</record>
+<record id="soura_48"  model="op.soura">
+ <field name="name">سورة الفتح</field>
+<field name="num" >48</field>
+</record>
+<record id="soura_49"  model="op.soura">
+ <field name="name">سورة الحجرات</field>
+<field name="num" >49</field>
+</record>
+<record id="soura_50"  model="op.soura">
+ <field name="name">سورة ق </field>
+<field name="num" >50</field>
+</record>
+<record id="soura_51"  model="op.soura">
+ <field name="name">سورة الذاريات</field>
+<field name="num" >51</field>
+</record>
+<record id="soura_52"  model="op.soura">
+ <field name="name">سورة الطور</field>
+<field name="num" >52</field>
+</record>
+<record id="soura_53"  model="op.soura">
+ <field name="name">سورة النجم</field>
+<field name="num" >53</field>
+</record>
+<record id="soura_54"  model="op.soura">
+ <field name="name">سورة القمر </field>
+<field name="num" >54</field>
+</record>
+<record id="soura_55"  model="op.soura">
+ <field name="name">سورة الرحمن </field>
+<field name="num" >55</field>
+</record>
+<record id="soura_56"  model="op.soura">
+ <field name="name">سورة الواقعة </field>
+<field name="num" >56</field>
+</record>
+<record id="soura_57"  model="op.soura">
+ <field name="name">سورة الحديد</field>
+<field name="num" >57</field>
+</record>
+<record id="soura_58"  model="op.soura">
+ <field name="name">سورة المجادلة</field>
+<field name="num" >58</field>
+</record>
+<record id="soura_59"  model="op.soura">
+ <field name="name">سورة الحشر</field>
+<field name="num" >59</field>
+</record>
+<record id="soura_60"  model="op.soura">
+ <field name="name">سورة الممتحنة </field>
+<field name="num" >60</field>
+</record>
+<record id="soura_61"  model="op.soura">
+ <field name="name">سورة الصف</field>
+<field name="num" >61</field>
+</record>
+<record id="soura_62"  model="op.soura">
+ <field name="name">سورة الجمعة </field>
+<field name="num" >62</field>
+</record>
+<record id="soura_63"  model="op.soura">
+ <field name="name">سورة المنافقون </field>
+<field name="num" >63</field>
+</record>
+<record id="soura_64"  model="op.soura">
+ <field name="name">سورة التغابن</field>
+<field name="num" >64</field>
+</record>
+<record id="soura_65"  model="op.soura">
+ <field name="name">سورة الطلاق</field>
+<field name="num" >65</field>
+</record>
+<record id="soura_66"  model="op.soura">
+ <field name="name">سورة التحريم </field>
+<field name="num" >66</field>
+</record>
+<record id="soura_67"  model="op.soura">
+ <field name="name">سورة الملك </field>
+<field name="num" >67</field>
+</record>
+<record id="soura_68"  model="op.soura">
+ <field name="name">سورة القلم </field>
+<field name="num" >68</field>
+</record>
+<record id="soura_69"  model="op.soura">
+ <field name="name">سورة الحاقة</field>
+<field name="num" >69</field>
+</record>
+<record id="soura_70"  model="op.soura">
+ <field name="name">سورة المعارج</field>
+<field name="num" >70</field>
+</record>
+<record id="soura_71"  model="op.soura">
+ <field name="name">سورة نوح </field>
+<field name="num" >71</field>
+</record>
+<record id="soura_72"  model="op.soura">
+ <field name="name">سورة الجن </field>
+<field name="num" >72</field>
+</record>
+<record id="soura_73"  model="op.soura">
+ <field name="name">سورة المزمل</field>
+<field name="num" >73</field>
+</record>
+<record id="soura_74"  model="op.soura">
+ <field name="name">سورة المدثر</field>
+<field name="num" >74</field>
+</record>
+<record id="soura_75"  model="op.soura">
+ <field name="name">سورة القيامة </field>
+<field name="num" >75</field>
+</record>
+<record id="soura_76"  model="op.soura">
+ <field name="name">سورة الإنسان </field>
+<field name="num" >76</field>
+</record>
+<record id="soura_77"  model="op.soura">
+ <field name="name">سورة المرسلات</field>
+<field name="num" >77</field>
+</record>
+<record id="soura_78"  model="op.soura">
+ <field name="name">سورة النبأ </field>
+<field name="num" >78</field>
+</record>
+<record id="soura_79"  model="op.soura">
+ <field name="name">سورة النازعات</field>
+<field name="num" >79</field>
+</record>
+<record id="soura_80"  model="op.soura">
+ <field name="name">سورة عبس</field>
+<field name="num" >80</field>
+</record>
+<record id="soura_81"  model="op.soura">
+ <field name="name">سورة التكوير</field>
+<field name="num" >81</field>
+</record>
+<record id="soura_82"  model="op.soura">
+ <field name="name">سورة الإنفطار</field>
+<field name="num" >82</field>
+</record>
+<record id="soura_83"  model="op.soura">
+ <field name="name">سورة المطففين </field>
+<field name="num" >83</field>
+</record>
+<record id="soura_84"  model="op.soura">
+ <field name="name">سورة الانشقاق</field>
+<field name="num" >84</field>
+</record>
+<record id="soura_85"  model="op.soura">
+ <field name="name">سورة البروج</field>
+<field name="num" >85</field>
+</record>
+<record id="soura_86"  model="op.soura">
+ <field name="name">سورة الطارق</field>
+<field name="num" >86</field>
+</record>
+<record id="soura_87"  model="op.soura">
+ <field name="name">سورة الأعلى </field>
+<field name="num" >87</field>
+</record>
+<record id="soura_88"  model="op.soura">
+ <field name="name">سورة الغاشية </field>
+<field name="num" >88</field>
+</record>
+<record id="soura_89"  model="op.soura">
+ <field name="name">سورة الفجر</field>
+<field name="num" >89</field>
+</record>
+<record id="soura_90"  model="op.soura">
+ <field name="name">سورة البلد</field>
+<field name="num" >90</field>
+</record>
+<record id="soura_91"  model="op.soura">
+ <field name="name">سورة الشمس</field>
+<field name="num" >91</field>
+</record>
+<record id="soura_92"  model="op.soura">
+ <field name="name">سورة الليل</field>
+<field name="num" >92</field>
+</record>
+<record id="soura_93"  model="op.soura">
+ <field name="name">سورة الضحى</field>
+<field name="num" >93</field>
+</record>
+<record id="soura_94"  model="op.soura">
+ <field name="name">سورة الشرح</field>
+<field name="num" >94</field>
+</record>
+<record id="soura_95"  model="op.soura">
+ <field name="name">سورة التين </field>
+<field name="num" >95</field>
+</record>
+<record id="soura_96"  model="op.soura">
+ <field name="name">سورة العلق</field>
+<field name="num" >96</field>
+</record>
+<record id="soura_97"  model="op.soura">
+ <field name="name">سورة القدر</field>
+<field name="num" >97</field>
+</record>
+<record id="soura_98"  model="op.soura">
+ <field name="name">سورة البينة </field>
+<field name="num" >98</field>
+</record>
+<record id="soura_99"  model="op.soura">
+ <field name="name">سورة الزلزلة </field>
+<field name="num" >99</field>
+</record>
+<record id="soura_100"  model="op.soura">
+ <field name="name">سورة العاديات </field>
+<field name="num" >100</field>
+</record>
+<record id="soura_101"  model="op.soura">
+ <field name="name">سورة القارعة </field>
+<field name="num" >101</field>
+</record>
+<record id="soura_102"  model="op.soura">
+ <field name="name">سورة التكاثر</field>
+<field name="num" >102</field>
+</record>
+<record id="soura_103"  model="op.soura">
+ <field name="name">سورة العصر</field>
+<field name="num" >103</field>
+</record>
+<record id="soura_104"  model="op.soura">
+ <field name="name">سورة الهمزة </field>
+<field name="num" >104</field>
+</record>
+<record id="soura_105"  model="op.soura">
+ <field name="name">سورة الفيل</field>
+<field name="num" >105</field>
+</record>
+<record id="soura_106"  model="op.soura">
+ <field name="name">سورة قريش</field>
+<field name="num" >106</field>
+</record>
+<record id="soura_107"  model="op.soura">
+ <field name="name">سورة الماعون </field>
+<field name="num" >107</field>
+</record>
+<record id="soura_108"  model="op.soura">
+ <field name="name">سورة التكاثر</field>
+<field name="num" >108</field>
+</record>
+<record id="soura_109"  model="op.soura">
+ <field name="name">سورة الكافرون </field>
+<field name="num" >109</field>
+</record>
+<record id="soura_110"  model="op.soura">
+ <field name="name">سورة النصر</field>
+<field name="num" >110</field>
+</record>
+<record id="soura_111"  model="op.soura">
+ <field name="name">سورة المسد</field>
+<field name="num" >111</field>
+</record>
+<record id="soura_112"  model="op.soura">
+ <field name="name">سورة الإخلاص</field>
+<field name="num" >112</field>
+</record>
+<record id="soura_113"  model="op.soura">
+ <field name="name">سورة الفلق</field>
+<field name="num" >113</field>
+</record>
+<record id="soura_114"  model="op.soura">
+ <field name="name">سورة الناس</field>
+<field name="num" >114</field>
+</record>
+</data></odoo>
